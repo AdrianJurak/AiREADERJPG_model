@@ -1,0 +1,16 @@
+# Środowisko wirtualne
+.venv/
+venv/
+env/
+
+# IDE i edytory
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+
+# Ignoruj pobrane modele AI
+.EasyOCR/
+
+# Opcjonalnie: ignoruj pliki wygenerowanych obrazków treningowych (ale zostaw sam folder)
+# dataset/images/*.jpg
