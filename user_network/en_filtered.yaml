@@ -1,0 +1,14 @@
+network_params:
+  input_channel: 1
+  output_channel: 512
+  hidden_size: 512
+  Transformation: 'TPS'
+  FeatureExtraction: 'VGG'
+  SequenceModeling: 'BiLSTM'
+  Prediction: 'CTC'
+
+  num_fiducial: 20
+imgH: 100
+imgW: 1000
+lang_list: ['pl', 'en']
+character_list: 0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ €AĄBCĆDEĘFGHIJKLŁMŃNOÓPQRSŚTUVWXYZŻŹaąbcćdeęfghijklłmnńoópqrsśtuvwxyzżź

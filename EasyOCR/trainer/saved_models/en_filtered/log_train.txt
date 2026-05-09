@@ -1,0 +1,900 @@
+[500/50000] Train loss: 4.43907, Valid loss: 3.63060, Elapsed_time: 132.47757
+Current_accuracy : 0.000, Current_norm_ED  : 0.0001
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0001
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+jedn.                     |                           | 0.0080	False
+Krok 2: Ustalamy typ: # zm. decyzyj: | "                         | 0.0000	False
+--------------------------------------------------------------------------------
+[1000/50000] Train loss: 3.34455, Valid loss: 3.18195, Elapsed_time: 268.75042
+Current_accuracy : 0.000, Current_norm_ED  : 0.0830
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0830
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"KOLUMN, aby"             | P                         | 0.0000	False
+zamienimy zmienne         |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[1500/50000] Train loss: 3.03943, Valid loss: 2.93630, Elapsed_time: 404.67336
+Current_accuracy : 0.000, Current_norm_ED  : 0.1083
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1083
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Problem mieszania (diet)  |                           | 0.0000	False
+Zapiszemy je w konwencji macierzowej | Zy   y                    | 0.0000	False
+--------------------------------------------------------------------------------
+[2000/50000] Train loss: 2.81193, Valid loss: 2.70954, Elapsed_time: 540.85698
+Current_accuracy : 0.000, Current_norm_ED  : 0.1625
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1625
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+ograniczony wielokątem    | yy k                      | 0.0000	False
+Rozwiązać PP oznacza      |  j                        | 0.0000	False
+--------------------------------------------------------------------------------
+[2500/50000] Train loss: 2.60096, Valid loss: 2.47401, Elapsed_time: 676.73736
+Current_accuracy : 0.243, Current_norm_ED  : 0.2505
+Best_accuracy    : 0.243, Best_norm_ED     : 0.2505
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Każde PPL                 | W P                       | 0.0000	False
+też pisali                | t pti                     | 0.0000	False
+--------------------------------------------------------------------------------
+[3000/50000] Train loss: 2.33913, Valid loss: 2.22114, Elapsed_time: 813.63116
+Current_accuracy : 0.243, Current_norm_ED  : 0.3307
+Best_accuracy    : 0.243, Best_norm_ED     : 0.3307
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+w. wolny w. ogr.          | wwoy wog                  | 0.0000	False
+bo nie zmieniły           | ko e iniy                 | 0.0000	False
+--------------------------------------------------------------------------------
+[3500/50000] Train loss: 2.14294, Valid loss: 2.35776, Elapsed_time: 952.09971
+Current_accuracy : 0.000, Current_norm_ED  : 0.3433
+Best_accuracy    : 0.243, Best_norm_ED     : 0.3433
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+zmiennych decyzyjnych:    | ziyd deyyd:               | 0.0000	False
+Przykład(z W1)            | Dy( W)                    | 0.0000	False
+--------------------------------------------------------------------------------
+[4000/50000] Train loss: 1.93299, Valid loss: 2.07158, Elapsed_time: 1089.39808
+Current_accuracy : 1.942, Current_norm_ED  : 0.4657
+Best_accuracy    : 1.942, Best_norm_ED     : 0.4657
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+rezerwujemy miejsca odpowiadające tym | enajy ij odpoiadająie tymy | 0.0000	False
+"gdzie ""relatywne"       | gtre ełatye               | 0.0000	False
+--------------------------------------------------------------------------------
+[4500/50000] Train loss: 1.78866, Valid loss: 1.68749, Elapsed_time: 1226.20265
+Current_accuracy : 1.456, Current_norm_ED  : 0.5126
+Best_accuracy    : 1.942, Best_norm_ED     : 0.5126
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+macierz współczynników    | maienm Moptpnik           | 0.0000	False
+Pokażmy jak powyższa analityczna postać zwija | Pokay jla poysy rltm posta zja | 0.0000	False
+--------------------------------------------------------------------------------
+[5000/50000] Train loss: 1.66198, Valid loss: 1.51203, Elapsed_time: 1363.32415
+Current_accuracy : 3.883, Current_norm_ED  : 0.5881
+Best_accuracy    : 3.883, Best_norm_ED     : 0.5881
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Weźmy PPL typu            | Wey PPL tmpu              | 0.0000	False
+Wtedy efekt               | Wty ekkt                  | 0.0000	False
+--------------------------------------------------------------------------------
+[5500/50000] Train loss: 1.51364, Valid loss: 1.38107, Elapsed_time: 1500.52389
+Current_accuracy : 6.068, Current_norm_ED  : 0.6377
+Best_accuracy    : 6.068, Best_norm_ED     : 0.6377
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Zwinąć PPL do postaci macierzowej. | Zinać Psoi do postai maii | 0.0000	False
+takim                     | tak                       | 0.0003	False
+--------------------------------------------------------------------------------
+[6000/50000] Train loss: 1.41723, Valid loss: 1.32444, Elapsed_time: 1637.12518
+Current_accuracy : 6.068, Current_norm_ED  : 0.6427
+Best_accuracy    : 6.068, Best_norm_ED     : 0.6427
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+W tym celu zaczynamy od WIERSZY | W tym celu zazzymy od WELZC | 0.0000	False
+wartości f.celu           | yki felu                  | 0.0000	False
+--------------------------------------------------------------------------------
+[6500/50000] Train loss: 1.33035, Valid loss: 1.24604, Elapsed_time: 1773.36906
+Current_accuracy : 6.553, Current_norm_ED  : 0.6813
+Best_accuracy    : 6.553, Best_norm_ED     : 0.6813
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+gdzie                     | gdze                      | 0.0097	False
+Słaba ZD von Neumanna     | taba ZD won Neumanna      | 0.0000	False
+--------------------------------------------------------------------------------
+[7000/50000] Train loss: 1.25277, Valid loss: 1.10980, Elapsed_time: 1909.53689
+Current_accuracy : 8.981, Current_norm_ED  : 0.6966
+Best_accuracy    : 8.981, Best_norm_ED     : 0.6966
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+czyli                     | cyli                      | 0.0436	False
+Algorytm sprowadzenia     | Aygrytm sprowadzenia      | 0.0000	False
+--------------------------------------------------------------------------------
+[7500/50000] Train loss: 1.18366, Valid loss: 1.11334, Elapsed_time: 2045.82863
+Current_accuracy : 10.922, Current_norm_ED  : 0.7209
+Best_accuracy    : 10.922, Best_norm_ED     : 0.7209
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+skonstruować              | skowstrwwj                | 0.0000	False
+2) definicja              | ) dfinicjąi               | 0.0000	False
+--------------------------------------------------------------------------------
+[8000/50000] Train loss: 1.12981, Valid loss: 1.01079, Elapsed_time: 2182.18166
+Current_accuracy : 13.107, Current_norm_ED  : 0.7376
+Best_accuracy    : 13.107, Best_norm_ED     : 0.7376
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Pokażmy jak powyższa analityczna postać zwija | Pokażmy jk poyżsy azaityna post zwaja | 0.0000	False
+zatem                     | atem                      | 0.0146	False
+--------------------------------------------------------------------------------
+[8500/50000] Train loss: 1.09384, Valid loss: 1.04053, Elapsed_time: 2318.67414
+Current_accuracy : 10.922, Current_norm_ED  : 0.7255
+Best_accuracy    : 13.107, Best_norm_ED     : 0.7376
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+gdzie                     | gdzie                     | 0.1173	True
+geometryczny              | geoietzć                  | 0.0000	False
+--------------------------------------------------------------------------------
+[9000/50000] Train loss: 1.00712, Valid loss: 0.90373, Elapsed_time: 2454.32612
+Current_accuracy : 14.078, Current_norm_ED  : 0.7586
+Best_accuracy    : 14.078, Best_norm_ED     : 0.7586
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+cena jedn. zakupu         | cena jedn. zakupu         | 0.0001	True
+Każde PPL                 | Każde PPL                 | 0.0136	True
+--------------------------------------------------------------------------------
+[9500/50000] Train loss: 0.95041, Valid loss: 0.86839, Elapsed_time: 2590.57918
+Current_accuracy : 17.233, Current_norm_ED  : 0.7737
+Best_accuracy    : 17.233, Best_norm_ED     : 0.7737
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PP typu min               | PP typu ii                | 0.0006	False
+ZAD                       | ZAD                       | 0.1668	True
+--------------------------------------------------------------------------------
+[10000/50000] Train loss: 0.91510, Valid loss: 0.82395, Elapsed_time: 2727.06929
+Current_accuracy : 16.990, Current_norm_ED  : 0.7752
+Best_accuracy    : 17.233, Best_norm_ED     : 0.7752
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+jedn.                     | jedn.                     | 0.0305	True
+Max                       | Max                       | 0.1193	True
+--------------------------------------------------------------------------------
+[10500/50000] Train loss: 0.88970, Valid loss: 0.74527, Elapsed_time: 2862.59753
+Current_accuracy : 21.845, Current_norm_ED  : 0.8182
+Best_accuracy    : 21.845, Best_norm_ED     : 0.8182
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+MIN oznacza               | Mj oznana,                | 0.0000	False
+MZD - mocna zasada dualności | MD - Moena zarada czylrośii | 0.0000	False
+--------------------------------------------------------------------------------
+[11000/50000] Train loss: 0.81618, Valid loss: 0.76767, Elapsed_time: 2998.98108
+Current_accuracy : 17.961, Current_norm_ED  : 0.7833
+Best_accuracy    : 21.845, Best_norm_ED     : 0.8182
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+wartości                  | wrtoży                    | 0.0024	False
+PP sprowadzić do postaci standardowej | PP spowadzii do postai standucu | 0.0000	False
+--------------------------------------------------------------------------------
+[11500/50000] Train loss: 0.78128, Valid loss: 0.61741, Elapsed_time: 3135.01067
+Current_accuracy : 24.757, Current_norm_ED  : 0.8386
+Best_accuracy    : 24.757, Best_norm_ED     : 0.8386
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Max                       | Max                       | 0.2278	True
+W4                        | W4                        | 0.7172	True
+--------------------------------------------------------------------------------
+[12000/50000] Train loss: 0.74533, Valid loss: 0.91699, Elapsed_time: 3270.97069
+Current_accuracy : 14.563, Current_norm_ED  : 0.7497
+Best_accuracy    : 24.757, Best_norm_ED     : 0.8386
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+jest decyzją              | jest decyzją              | 0.0006	True
+dla DPPL                  | dla DgL                   | 0.0169	False
+--------------------------------------------------------------------------------
+[12500/50000] Train loss: 0.70254, Valid loss: 0.58283, Elapsed_time: 3406.84908
+Current_accuracy : 26.942, Current_norm_ED  : 0.8480
+Best_accuracy    : 26.942, Best_norm_ED     : 0.8480
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Mamy sytuację             | Mamy ytację               | 0.0001	False
+wyznaczy dualne do niego  | wyznay dunalne do iego    | 0.0000	False
+--------------------------------------------------------------------------------
+[13000/50000] Train loss: 0.67261, Valid loss: 0.52433, Elapsed_time: 3543.22929
+Current_accuracy : 30.825, Current_norm_ED  : 0.8758
+Best_accuracy    : 30.825, Best_norm_ED     : 0.8758
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+że takie P0 istnieje      | że take Po istnieje       | 0.0000	False
+o jakości mieszanki       | o jakości miezanti        | 0.0000	False
+--------------------------------------------------------------------------------
+[13500/50000] Train loss: 0.64611, Valid loss: 0.52060, Elapsed_time: 3679.59664
+Current_accuracy : 29.126, Current_norm_ED  : 0.8700
+Best_accuracy    : 30.825, Best_norm_ED     : 0.8758
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+z relacji                 | z relacji                 | 0.0482	True
+wszystkie komórki tego wiersza pomniejszając | wszystie komdzki tego wicrsnae pomniejsjąć | 0.0000	False
+--------------------------------------------------------------------------------
+[14000/50000] Train loss: 0.62200, Valid loss: 0.49065, Elapsed_time: 3815.03681
+Current_accuracy : 31.068, Current_norm_ED  : 0.8715
+Best_accuracy    : 31.068, Best_norm_ED     : 0.8758
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Definiujemy macierze:     | Definiumy macierze:       | 0.0000	False
+"trzeba użyć pozostałych komórek, aby" | trzeba użyć pozostych komóokh, aby | 0.0000	False
+--------------------------------------------------------------------------------
+[14500/50000] Train loss: 0.59257, Valid loss: 0.49607, Elapsed_time: 3951.02344
+Current_accuracy : 30.097, Current_norm_ED  : 0.8739
+Best_accuracy    : 31.068, Best_norm_ED     : 0.8758
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+W praktyce będzie to miejsce składowania nadwyżki | W prakke bydh to miejsne składowa nadwyżsi" | 0.0000	False
+ZAD. NAPISAĆ dla Min      | ZAD.NAMISAY dla Mi        | 0.0000	False
+--------------------------------------------------------------------------------
+[15000/50000] Train loss: 0.56994, Valid loss: 0.46321, Elapsed_time: 4086.82288
+Current_accuracy : 32.524, Current_norm_ED  : 0.8810
+Best_accuracy    : 32.524, Best_norm_ED     : 0.8810
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Oceń                      | Oceń                      | 0.0595	True
+czyli dualne do dualnego daje pierwotne. | czyli dualne do dualnego daje pierotne | 0.0000	False
+--------------------------------------------------------------------------------
+[15500/50000] Train loss: 0.52374, Valid loss: 0.40587, Elapsed_time: 4222.63155
+Current_accuracy : 35.922, Current_norm_ED  : 0.8876
+Best_accuracy    : 35.922, Best_norm_ED     : 0.8876
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Najpierw ustalamy właściwe nierówności | Napiew staimy wtaśwe ieównoó | 0.0000	False
+"Proces ""domykania"" OZT do ZZT polega" | Proeć "donykama OZT do ZZT polega | 0.0000	False
+--------------------------------------------------------------------------------
+[16000/50000] Train loss: 0.49834, Valid loss: 0.37565, Elapsed_time: 4358.88028
+Current_accuracy : 40.291, Current_norm_ED  : 0.9068
+Best_accuracy    : 40.291, Best_norm_ED     : 0.9068
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+macierz współczynników    | macierz współczynników    | 0.0005	True
+"jedno ""0"". Wskazuje ono komórkę" | jednio ,"o!. Wskazje ono kouóiśj | 0.0000	False
+--------------------------------------------------------------------------------
+[16500/50000] Train loss: 0.47304, Valid loss: 0.36217, Elapsed_time: 4494.92894
+Current_accuracy : 39.078, Current_norm_ED  : 0.9014
+Best_accuracy    : 40.291, Best_norm_ED     : 0.9068
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+którą można               | którą można               | 0.0112	True
+p. analityczna            | I. analitya               | 0.0000	False
+--------------------------------------------------------------------------------
+[17000/50000] Train loss: 0.45217, Valid loss: 0.34328, Elapsed_time: 4630.62088
+Current_accuracy : 35.437, Current_norm_ED  : 0.8974
+Best_accuracy    : 40.291, Best_norm_ED     : 0.9068
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+że takie P0 istnieje      | że take P istnieje        | 0.0003	False
+n - liczba argumentów funkcji celu | n -liczba argumntw fnkcji celu | 0.0000	False
+--------------------------------------------------------------------------------
+[17500/50000] Train loss: 0.42347, Valid loss: 0.31936, Elapsed_time: 4766.02177
+Current_accuracy : 44.175, Current_norm_ED  : 0.9225
+Best_accuracy    : 44.175, Best_norm_ED     : 0.9225
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+że takie P0 istnieje      | że takie Po istnieje      | 0.0004	False
+(PPL) - problem programowania liniowego. | PPL)- problei programowanio liniowwngo" | 0.0000	False
+--------------------------------------------------------------------------------
+[18000/50000] Train loss: 0.41323, Valid loss: 0.30603, Elapsed_time: 4902.25415
+Current_accuracy : 41.748, Current_norm_ED  : 0.9220
+Best_accuracy    : 44.175, Best_norm_ED     : 0.9225
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+wierszu wskazany limit    | wierszu wskazny liit      | 0.0001	False
+von Neumann               | von Nermann               | 0.0038	False
+--------------------------------------------------------------------------------
+[18500/50000] Train loss: 0.39166, Valid loss: 0.27715, Elapsed_time: 5038.15845
+Current_accuracy : 46.845, Current_norm_ED  : 0.9278
+Best_accuracy    : 46.845, Best_norm_ED     : 0.9278
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Co to oznacza:            | (Co to oznacza:           | 0.0127	False
+zm. decyzyjne             | zrm. decyzyjne            | 0.0016	False
+--------------------------------------------------------------------------------
+[19000/50000] Train loss: 0.36090, Valid loss: 0.25604, Elapsed_time: 5174.02055
+Current_accuracy : 49.029, Current_norm_ED  : 0.9313
+Best_accuracy    : 49.029, Best_norm_ED     : 0.9313
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Po tych zmianach, mamy ""nową"" zmienną" | Po tych zmianach, mamy "nową zmienną | 0.0000	False
+"zrealizować, bowiem"     | "zealizowaa, bowiem       | 0.0005	False
+--------------------------------------------------------------------------------
+[19500/50000] Train loss: 0.34175, Valid loss: 0.22896, Elapsed_time: 5310.42040
+Current_accuracy : 56.068, Current_norm_ED  : 0.9448
+Best_accuracy    : 56.068, Best_norm_ED     : 0.9448
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"W tym przypadku wygodna, bo następują" | W tym przpadku wygda to nastopuja | 0.0000	False
+układ                     | układ                     | 0.4238	True
+--------------------------------------------------------------------------------
+[20000/50000] Train loss: 0.31892, Valid loss: 0.24126, Elapsed_time: 5446.70726
+Current_accuracy : 47.330, Current_norm_ED  : 0.9349
+Best_accuracy    : 56.068, Best_norm_ED     : 0.9448
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Krok2. W każdym           | Krok2. W każdym           | 0.0025	True
+Podać p.analityczną       | Podać p.analityczy        | 0.0001	False
+--------------------------------------------------------------------------------
+[20500/50000] Train loss: 0.31041, Valid loss: 0.24253, Elapsed_time: 5582.34949
+Current_accuracy : 48.786, Current_norm_ED  : 0.9314
+Best_accuracy    : 56.068, Best_norm_ED     : 0.9448
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+4) definicja dziedziny f. celu | 4) defnizeja dziedzny f. celu | 0.0000	False
+PP sprowadzić do postaci standardowej | PP sprowadzi do postaci standondoej | 0.0000	False
+--------------------------------------------------------------------------------
+[21000/50000] Train loss: 0.29383, Valid loss: 0.21063, Elapsed_time: 5718.16053
+Current_accuracy : 52.184, Current_norm_ED  : 0.9429
+Best_accuracy    : 56.068, Best_norm_ED     : 0.9448
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nadwyżka                  | nadwyżka                  | 0.0845	True
+gdy PPPL                  | gdy PPPL                  | 0.1992	True
+--------------------------------------------------------------------------------
+[21500/50000] Train loss: 0.27937, Valid loss: 0.17989, Elapsed_time: 5854.01680
+Current_accuracy : 59.951, Current_norm_ED  : 0.9576
+Best_accuracy    : 59.951, Best_norm_ED     : 0.9576
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Uwaga                     | Uwaga                     | 0.1552	True
+Rozw.                     | Rozw.                     | 0.1650	True
+--------------------------------------------------------------------------------
+[22000/50000] Train loss: 0.26188, Valid loss: 0.23468, Elapsed_time: 5990.36248
+Current_accuracy : 50.971, Current_norm_ED  : 0.9380
+Best_accuracy    : 59.951, Best_norm_ED     : 0.9576
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Dalej będą rozważane tylko dwie następujące | Dalej będo rozważale tyllo die astęujce | 0.0000	False
+von Neumanna.             | von Neumanna.             | 0.0467	True
+--------------------------------------------------------------------------------
+[22500/50000] Train loss: 0.25042, Valid loss: 0.17048, Elapsed_time: 6125.91558
+Current_accuracy : 59.466, Current_norm_ED  : 0.9585
+Best_accuracy    : 59.951, Best_norm_ED     : 0.9585
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+dla                       | dla                       | 0.2757	True
+ZAD2                      | ZAD2                      | 0.3571	True
+--------------------------------------------------------------------------------
+[23000/50000] Train loss: 0.24165, Valid loss: 0.14852, Elapsed_time: 6261.86625
+Current_accuracy : 61.893, Current_norm_ED  : 0.9624
+Best_accuracy    : 61.893, Best_norm_ED     : 0.9624
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Wtedy oznaczamy           | Wtedy oznaczmy            | 0.0003	False
+ZAD. NAPISAĆ dla Min      | ZAD. NAPISAć dla Minm     | 0.0005	False
+--------------------------------------------------------------------------------
+[23500/50000] Train loss: 0.23137, Valid loss: 0.17775, Elapsed_time: 6397.95259
+Current_accuracy : 59.951, Current_norm_ED  : 0.9542
+Best_accuracy    : 61.893, Best_norm_ED     : 0.9624
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+należy to zilustrować     | naebty to zilustrnować    | 0.0001	False
+zbiór rozw. dopuszczalnych | zbiór rozw. dopuczczanych | 0.0000	False
+--------------------------------------------------------------------------------
+[24000/50000] Train loss: 0.22495, Valid loss: 0.15754, Elapsed_time: 6533.81332
+Current_accuracy : 58.010, Current_norm_ED  : 0.9583
+Best_accuracy    : 61.893, Best_norm_ED     : 0.9624
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+następująco:              | następująco               | 0.0007	False
+taki punkt                | taki punkt                | 0.1022	True
+--------------------------------------------------------------------------------
+[24500/50000] Train loss: 0.20641, Valid loss: 0.14682, Elapsed_time: 6669.78258
+Current_accuracy : 65.049, Current_norm_ED  : 0.9661
+Best_accuracy    : 65.049, Best_norm_ED     : 0.9661
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+zatem                     | zatem                     | 0.3605	True
+"MAX oznacza, że"         | "MAX oznacza, że"         | 0.0031	True
+--------------------------------------------------------------------------------
+[25000/50000] Train loss: 0.18807, Valid loss: 0.21402, Elapsed_time: 6806.15634
+Current_accuracy : 44.903, Current_norm_ED  : 0.9316
+Best_accuracy    : 65.049, Best_norm_ED     : 0.9661
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+warunków ograniczających  | warunków ogramiczająych   | 0.0000	False
+z relacji                 | z relacji                 | 0.0183	True
+--------------------------------------------------------------------------------
+[25500/50000] Train loss: 0.19015, Valid loss: 0.14745, Elapsed_time: 6941.93515
+Current_accuracy : 57.282, Current_norm_ED  : 0.9590
+Best_accuracy    : 65.049, Best_norm_ED     : 0.9661
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+ZAD. NAPISAĆ dla Min      | ZAD. NAPISAC dla Min      | 0.0043	False
+"Podany jest opis ilościowy PP, czyli model matematyczny" | "Podany ten opis ilośioy PP, cyligmodel matematyczny | 0.0000	False
+--------------------------------------------------------------------------------
+[26000/50000] Train loss: 0.16351, Valid loss: 0.10512, Elapsed_time: 7077.56173
+Current_accuracy : 68.447, Current_norm_ED  : 0.9746
+Best_accuracy    : 68.447, Best_norm_ED     : 0.9746
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+składowym                 | składowym                 | 0.0874	True
+Pokażmy jak to się        | Pokażmy jak to się        | 0.0066	True
+--------------------------------------------------------------------------------
+[26500/50000] Train loss: 0.16153, Valid loss: 0.10842, Elapsed_time: 7213.95444
+Current_accuracy : 66.990, Current_norm_ED  : 0.9713
+Best_accuracy    : 68.447, Best_norm_ED     : 0.9746
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+wszystkie komórki tego wiersza pomniejszając | wszystie komórki tego wiersza pomniejszająćc" | 0.0000	False
+Rozwiązać PP oznacza      | Rozwiąza PP oznacza       | 0.0551	False
+--------------------------------------------------------------------------------
+[27000/50000] Train loss: 0.15733, Valid loss: 0.10943, Elapsed_time: 7349.91292
+Current_accuracy : 67.718, Current_norm_ED  : 0.9752
+Best_accuracy    : 68.447, Best_norm_ED     : 0.9752
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Weźmy teraz funkcję liniowa | Weźmy teraz funkcję liniowa | 0.0005	True
+Oba poprzednie modele podane są w tzw. postaci | Oba powyżsnye modele podune są w śzw. postaci | 0.0000	False
+--------------------------------------------------------------------------------
+[27500/50000] Train loss: 0.14807, Valid loss: 0.09158, Elapsed_time: 7485.55514
+Current_accuracy : 69.903, Current_norm_ED  : 0.9753
+Best_accuracy    : 69.903, Best_norm_ED     : 0.9753
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Algorytm sprowadzenia     | Algorytm sprowadzenia     | 0.0195	True
+jedno z nich ma           | jedno z nich ma           | 0.0028	True
+--------------------------------------------------------------------------------
+[28000/50000] Train loss: 0.13689, Valid loss: 0.10503, Elapsed_time: 7621.67251
+Current_accuracy : 62.864, Current_norm_ED  : 0.9665
+Best_accuracy    : 69.903, Best_norm_ED     : 0.9753
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+wybór asortymentu wolumenu produkcji. | wybór asortymentu wolumeu produkcji | 0.0000	False
+Mocna ZASADA DUALNOŚCI    | Mocna ZASADADUALNOŚCI     | 0.0098	False
+--------------------------------------------------------------------------------
+[28500/50000] Train loss: 0.12920, Valid loss: 0.09336, Elapsed_time: 7757.63638
+Current_accuracy : 68.447, Current_norm_ED  : 0.9740
+Best_accuracy    : 69.903, Best_norm_ED     : 0.9753
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+można wyznaczyć MZD       | można wyznaczyć MZD       | 0.0021	True
+zawsze                    | zawsze                    | 0.1319	True
+--------------------------------------------------------------------------------
+[29000/50000] Train loss: 0.12519, Valid loss: 0.08076, Elapsed_time: 7893.07218
+Current_accuracy : 71.845, Current_norm_ED  : 0.9779
+Best_accuracy    : 71.845, Best_norm_ED     : 0.9779
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+wzoru funkcji celu F:     | wzoru funkcji celu F:     | 0.0069	True
+na jednostkę              | na jednostkę              | 0.0580	True
+--------------------------------------------------------------------------------
+[29500/50000] Train loss: 0.11782, Valid loss: 0.17290, Elapsed_time: 8029.30082
+Current_accuracy : 51.699, Current_norm_ED  : 0.9483
+Best_accuracy    : 71.845, Best_norm_ED     : 0.9779
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+rozwiązanie               | rozwiązanie               | 0.0430	True
+Dalej przez PP będą       | Dalj przez PP będą        | 0.0015	False
+--------------------------------------------------------------------------------
+[30000/50000] Train loss: 0.11650, Valid loss: 0.10759, Elapsed_time: 8165.28874
+Current_accuracy : 68.932, Current_norm_ED  : 0.9734
+Best_accuracy    : 71.845, Best_norm_ED     : 0.9779
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Krok 2.                   | Krok 2.                   | 0.2637	True
+stąd                      | stąd                      | 0.6033	True
+--------------------------------------------------------------------------------
+[30500/50000] Train loss: 0.11041, Valid loss: 0.06246, Elapsed_time: 8300.91856
+Current_accuracy : 77.427, Current_norm_ED  : 0.9862
+Best_accuracy    : 77.427, Best_norm_ED     : 0.9862
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Przykład 1.               | Przykład 1.               | 0.0449	True
+DPPL zorientowane na MIN  | DPPL zorientowane na MIN  | 0.0062	True
+--------------------------------------------------------------------------------
+[31000/50000] Train loss: 0.09878, Valid loss: 0.07662, Elapsed_time: 8436.70606
+Current_accuracy : 71.845, Current_norm_ED  : 0.9794
+Best_accuracy    : 77.427, Best_norm_ED     : 0.9862
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nadwyżka                  | nadwyżka                  | 0.1433	True
+Nie powstanie             | Nie powstanie             | 0.2203	True
+--------------------------------------------------------------------------------
+[31500/50000] Train loss: 0.09594, Valid loss: 0.06923, Elapsed_time: 8572.73642
+Current_accuracy : 74.515, Current_norm_ED  : 0.9826
+Best_accuracy    : 77.427, Best_norm_ED     : 0.9862
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Wtedy oznaczamy           | Wtedy oznaczamy           | 0.0114	True
+będzie analogicznie       | będzie analogicznie       | 0.0146	True
+--------------------------------------------------------------------------------
+[32000/50000] Train loss: 0.09632, Valid loss: 0.08697, Elapsed_time: 8708.64969
+Current_accuracy : 70.388, Current_norm_ED  : 0.9774
+Best_accuracy    : 77.427, Best_norm_ED     : 0.9862
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+wektor decyzyjny:         | wektor decyzyjny:         | 0.0221	True
+Przykład. Zmodyfikuj poprzednią do | Przykład. Zmodyfikujj poprzednią do | 0.0000	False
+--------------------------------------------------------------------------------
+[32500/50000] Train loss: 0.09311, Valid loss: 0.06773, Elapsed_time: 8844.20741
+Current_accuracy : 72.816, Current_norm_ED  : 0.9828
+Best_accuracy    : 77.427, Best_norm_ED     : 0.9862
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Niech dane będą (PP) typu | Niech dane będą (PP) typu | 0.0021	True
+Definiujemy macierze:     | Definiujemy macierze:     | 0.0146	True
+--------------------------------------------------------------------------------
+[33000/50000] Train loss: 0.09079, Valid loss: 0.08624, Elapsed_time: 8980.06959
+Current_accuracy : 64.806, Current_norm_ED  : 0.9727
+Best_accuracy    : 77.427, Best_norm_ED     : 0.9862
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Słaba ZD von Neumanna     | Słaba ZD von Neumanna     | 0.0043	True
+Punktem wyjścia będzie PPL dane w postaci standardowej | Punktem wyjścia będzie PPL dane w postaci standardowej | 0.0000	True
+--------------------------------------------------------------------------------
+[33500/50000] Train loss: 0.08523, Valid loss: 0.03898, Elapsed_time: 9116.01680
+Current_accuracy : 85.922, Current_norm_ED  : 0.9921
+Best_accuracy    : 85.922, Best_norm_ED     : 0.9921
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+dlatego                   | dlatego                   | 0.0419	True
+Problem mieszania (diet)  | Problem mieszania (diet)  | 0.0015	True
+--------------------------------------------------------------------------------
+[34000/50000] Train loss: 0.07746, Valid loss: 0.06133, Elapsed_time: 9252.40399
+Current_accuracy : 73.058, Current_norm_ED  : 0.9835
+Best_accuracy    : 85.922, Best_norm_ED     : 0.9921
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+(dla MAX)                 | (dla MAX)                 | 0.2614	True
+Jak wiadomo zjawisko PP wygląda następująco | Jak wiadomo zjawisko PP wygląda następująco | 0.0000	True
+--------------------------------------------------------------------------------
+[34500/50000] Train loss: 0.08058, Valid loss: 0.07711, Elapsed_time: 9387.75678
+Current_accuracy : 66.262, Current_norm_ED  : 0.9788
+Best_accuracy    : 85.922, Best_norm_ED     : 0.9921
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+jest OPTYMALNA!           | jest OPTYMALNA!           | 0.0326	True
+Jak widać z               | Jak widać z               | 0.0657	True
+--------------------------------------------------------------------------------
+[35000/50000] Train loss: 0.07899, Valid loss: 0.06620, Elapsed_time: 9523.45984
+Current_accuracy : 73.544, Current_norm_ED  : 0.9833
+Best_accuracy    : 85.922, Best_norm_ED     : 0.9921
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+gdy PPPL                  | gdy PPPL                  | 0.0318	True
+robi                      | robi                      | 0.3541	True
+--------------------------------------------------------------------------------
+[35500/50000] Train loss: 0.07835, Valid loss: 0.10737, Elapsed_time: 9659.17103
+Current_accuracy : 59.223, Current_norm_ED  : 0.9670
+Best_accuracy    : 85.922, Best_norm_ED     : 0.9921
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"daną, u nas"             | "daną, u nas"             | 0.1008	True
+jedno z nich ma           | jedno z nich ma           | 0.0466	True
+--------------------------------------------------------------------------------
+[36000/50000] Train loss: 0.07581, Valid loss: 0.04864, Elapsed_time: 9794.65729
+Current_accuracy : 78.398, Current_norm_ED  : 0.9862
+Best_accuracy    : 85.922, Best_norm_ED     : 0.9921
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+MAX / MIN                 | MAX / MIN                 | 0.1365	True
+Z rys. 1 widać            | Z rys. 1 widać            | 0.2391	True
+--------------------------------------------------------------------------------
+[36500/50000] Train loss: 0.07219, Valid loss: 0.04245, Elapsed_time: 9930.60205
+Current_accuracy : 80.825, Current_norm_ED  : 0.9892
+Best_accuracy    : 85.922, Best_norm_ED     : 0.9921
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+wyznaczy dualne do niego  | wyznaczy dualne do niego  | 0.0022	True
+(PPL) - problem programowania liniowego. | (PPL) - problem programowania liniowego | 0.0000	False
+--------------------------------------------------------------------------------
+[37000/50000] Train loss: 0.06608, Valid loss: 0.03515, Elapsed_time: 10066.09074
+Current_accuracy : 81.311, Current_norm_ED  : 0.9898
+Best_accuracy    : 85.922, Best_norm_ED     : 0.9921
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Metody                    | Metody                    | 0.2204	True
+kolejności warunków!      | kolejności warunków!      | 0.0093	True
+--------------------------------------------------------------------------------
+[37500/50000] Train loss: 0.05760, Valid loss: 0.09647, Elapsed_time: 10201.13090
+Current_accuracy : 58.010, Current_norm_ED  : 0.9709
+Best_accuracy    : 85.922, Best_norm_ED     : 0.9921
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+następująco:              | następująco:              | 0.0081	True
+też pisali                | też pisali                | 0.0691	True
+--------------------------------------------------------------------------------
+[38000/50000] Train loss: 0.05746, Valid loss: 0.05318, Elapsed_time: 10336.52128
+Current_accuracy : 78.155, Current_norm_ED  : 0.9865
+Best_accuracy    : 85.922, Best_norm_ED     : 0.9921
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Weźmy PPL typu            | Weźmy PPL typu            | 0.1548	True
+zawartość                 | zawartość                 | 0.2343	True
+--------------------------------------------------------------------------------
+[38500/50000] Train loss: 0.05739, Valid loss: 0.04061, Elapsed_time: 10471.84800
+Current_accuracy : 80.583, Current_norm_ED  : 0.9891
+Best_accuracy    : 85.922, Best_norm_ED     : 0.9921
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Punktem wyjścia będzie PPL dane w postaci standardowej | Punktem wyjścia będzie PPL dane w postai standardowe | 0.0000	False
+uzyskać                   | uzyskać                   | 0.4982	True
+--------------------------------------------------------------------------------
+[39000/50000] Train loss: 0.05361, Valid loss: 0.05986, Elapsed_time: 10607.23172
+Current_accuracy : 72.330, Current_norm_ED  : 0.9816
+Best_accuracy    : 85.922, Best_norm_ED     : 0.9921
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+pozwala skonstruować      | pozwala skonstruowa       | 0.0097	False
+Pokażmy jak to się        | Pokażmy jak to się        | 0.0781	True
+--------------------------------------------------------------------------------
+[39500/50000] Train loss: 0.05003, Valid loss: 0.03657, Elapsed_time: 10742.37559
+Current_accuracy : 79.612, Current_norm_ED  : 0.9891
+Best_accuracy    : 85.922, Best_norm_ED     : 0.9921
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+coś więcej                | coś więcej                | 0.0935	True
+np. z kryterium MAX(dla   | np z kryterium MAX(dla    | 0.0376	False
+--------------------------------------------------------------------------------
+[40000/50000] Train loss: 0.04643, Valid loss: 0.03726, Elapsed_time: 10877.91577
+Current_accuracy : 82.039, Current_norm_ED  : 0.9907
+Best_accuracy    : 85.922, Best_norm_ED     : 0.9921
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+programowe dualne         | programowe dualne         | 0.0411	True
+ograniczony wielokątem    | ograniczony wielokątem    | 0.0027	True
+--------------------------------------------------------------------------------
+[40500/50000] Train loss: 0.04588, Valid loss: 0.02416, Elapsed_time: 11013.38450
+Current_accuracy : 87.379, Current_norm_ED  : 0.9942
+Best_accuracy    : 87.379, Best_norm_ED     : 0.9942
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Tryb: on-line             | Tryb: on-line             | 0.0429	True
+Niech dane będą (PP) typu | Niech dane będą (PP) typu | 0.0255	True
+--------------------------------------------------------------------------------
+[41000/50000] Train loss: 0.04484, Valid loss: 0.02409, Elapsed_time: 11149.09753
+Current_accuracy : 86.408, Current_norm_ED  : 0.9938
+Best_accuracy    : 87.379, Best_norm_ED     : 0.9942
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Zatem                     | Zatem                     | 0.3175	True
+ZAD                       | ZAD                       | 0.2887	True
+--------------------------------------------------------------------------------
+[41500/50000] Train loss: 0.04306, Valid loss: 0.03553, Elapsed_time: 11284.55982
+Current_accuracy : 81.068, Current_norm_ED  : 0.9889
+Best_accuracy    : 87.379, Best_norm_ED     : 0.9942
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Jeśli                     | Jeśli                     | 0.2304	True
+"daną, u nas"             | "daną, u na"              | 0.1500	False
+--------------------------------------------------------------------------------
+[42000/50000] Train loss: 0.04210, Valid loss: 0.02794, Elapsed_time: 11419.91047
+Current_accuracy : 85.680, Current_norm_ED  : 0.9924
+Best_accuracy    : 87.379, Best_norm_ED     : 0.9942
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Oceń                      | Oceń                      | 0.7760	True
+robi                      | robi                      | 0.5755	True
+--------------------------------------------------------------------------------
+[42500/50000] Train loss: 0.03945, Valid loss: 0.04905, Elapsed_time: 11555.33030
+Current_accuracy : 77.913, Current_norm_ED  : 0.9860
+Best_accuracy    : 87.379, Best_norm_ED     : 0.9942
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+NB                        | NB                        | 0.5165	True
+wierszu wskazany limit    | wierszu wskazanmy limit   | 0.0096	False
+--------------------------------------------------------------------------------
+[43000/50000] Train loss: 0.03893, Valid loss: 0.02517, Elapsed_time: 11690.69654
+Current_accuracy : 85.922, Current_norm_ED  : 0.9934
+Best_accuracy    : 87.379, Best_norm_ED     : 0.9942
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+jest decyzją              | jest decyzją              | 0.1010	True
+Krok 2: Ustalamy typ: # zm. decyzyj: | Krok 2: Ustalamy typ: # zm. decyzyj: | 0.0006	True
+--------------------------------------------------------------------------------
+[43500/50000] Train loss: 0.03784, Valid loss: 0.01940, Elapsed_time: 11826.40362
+Current_accuracy : 89.078, Current_norm_ED  : 0.9940
+Best_accuracy    : 89.078, Best_norm_ED     : 0.9942
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+składowana                | składowana                | 0.2729	True
+p. analityczna            | p. analityczna            | 0.0345	True
+--------------------------------------------------------------------------------
+[44000/50000] Train loss: 0.03435, Valid loss: 0.02303, Elapsed_time: 11962.27044
+Current_accuracy : 89.806, Current_norm_ED  : 0.9958
+Best_accuracy    : 89.806, Best_norm_ED     : 0.9958
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Ten zdefiniuje PPL        | Ten zdefiniuje PPL        | 0.1666	True
+"MAX oznacza, że"         | "MAX oznacza, że"         | 0.0328	True
+--------------------------------------------------------------------------------
+[44500/50000] Train loss: 0.03490, Valid loss: 0.01507, Elapsed_time: 12097.77543
+Current_accuracy : 92.718, Current_norm_ED  : 0.9968
+Best_accuracy    : 92.718, Best_norm_ED     : 0.9968
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+(PPL)                     | (PPL)                     | 0.8024	True
+ZMIENNYCH w oryginalnym   | ZMIENNYCH w oryginalym    | 0.0037	False
+--------------------------------------------------------------------------------
+[45000/50000] Train loss: 0.03111, Valid loss: 0.01555, Elapsed_time: 12233.83171
+Current_accuracy : 91.019, Current_norm_ED  : 0.9964
+Best_accuracy    : 92.718, Best_norm_ED     : 0.9968
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Forma zajęć: Wykład       | Forma zajęć: Wykład       | 0.0545	True
+zużycie                   | zużycie                   | 0.6737	True
+--------------------------------------------------------------------------------
+[45500/50000] Train loss: 0.03312, Valid loss: 0.02473, Elapsed_time: 12369.41071
+Current_accuracy : 86.408, Current_norm_ED  : 0.9933
+Best_accuracy    : 92.718, Best_norm_ED     : 0.9968
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+dane liczby rzeczywiste   | dane liczby rzeczywiste   | 0.0453	True
+Na ogół zachowuje         | Na ogół zachowuje         | 0.1018	True
+--------------------------------------------------------------------------------
+[46000/50000] Train loss: 0.03429, Valid loss: 0.02912, Elapsed_time: 12504.69435
+Current_accuracy : 85.194, Current_norm_ED  : 0.9922
+Best_accuracy    : 92.718, Best_norm_ED     : 0.9968
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+zawartości składników     | zawartośi składników      | 0.0466	False
+Punktem wyjścia będzie PPL dane w postaci standardowej | Punktem wyjścia będzie PPL dane w postaci standardowej | 0.0000	True
+--------------------------------------------------------------------------------
+[46500/50000] Train loss: 0.03019, Valid loss: 0.01994, Elapsed_time: 12640.48399
+Current_accuracy : 90.777, Current_norm_ED  : 0.9957
+Best_accuracy    : 92.718, Best_norm_ED     : 0.9968
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+postaci DPPL:             | postaci DPPL:             | 0.1539	True
+dane liczby rzeczywiste   | dane liczby rzeczywiste   | 0.0400	True
+--------------------------------------------------------------------------------
+[47000/50000] Train loss: 0.02747, Valid loss: 0.01631, Elapsed_time: 12776.02543
+Current_accuracy : 91.019, Current_norm_ED  : 0.9957
+Best_accuracy    : 92.718, Best_norm_ED     : 0.9968
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Krok 1                    | Krok 1                    | 0.2655	True
+Oceń                      | Oceń                      | 0.3630	True
+--------------------------------------------------------------------------------
+[47500/50000] Train loss: 0.03158, Valid loss: 0.01531, Elapsed_time: 12911.78108
+Current_accuracy : 91.262, Current_norm_ED  : 0.9965
+Best_accuracy    : 92.718, Best_norm_ED     : 0.9968
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+oś rzeczywista            | oś rzeczywista            | 0.0507	True
+(dla MAX)                 | (dla MAX)                 | 0.2376	True
+--------------------------------------------------------------------------------
+[48000/50000] Train loss: 0.02802, Valid loss: 0.01311, Elapsed_time: 13047.11885
+Current_accuracy : 91.990, Current_norm_ED  : 0.9968
+Best_accuracy    : 92.718, Best_norm_ED     : 0.9968
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Jeśli PPPL zorientuje się na Min, to" | "Jeśli PPPL zrientuje się na Min, to | 0.0001	False
+Wtedy                     | Wtedy                     | 0.1972	True
+--------------------------------------------------------------------------------
+[48500/50000] Train loss: 0.02737, Valid loss: 0.01143, Elapsed_time: 13182.60148
+Current_accuracy : 92.233, Current_norm_ED  : 0.9968
+Best_accuracy    : 92.718, Best_norm_ED     : 0.9968
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Metodologia modelowania zjawisk prowadzących do PPL | Metodologia modelowania zjawisk prowadzących do PPL | 0.0001	True
+MAX.                      | MAX.                      | 0.2779	True
+--------------------------------------------------------------------------------
+[49000/50000] Train loss: 0.02588, Valid loss: 0.02278, Elapsed_time: 13318.22657
+Current_accuracy : 85.680, Current_norm_ED  : 0.9922
+Best_accuracy    : 92.718, Best_norm_ED     : 0.9968
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+dla DPPL                  | dla DPPL                  | 0.6906	True
+dlatego                   | dlatego                   | 0.4159	True
+--------------------------------------------------------------------------------
+[49500/50000] Train loss: 0.02447, Valid loss: 0.03000, Elapsed_time: 13453.30383
+Current_accuracy : 81.553, Current_norm_ED  : 0.9906
+Best_accuracy    : 92.718, Best_norm_ED     : 0.9968
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+do postaci analitycznej   | do postaci aualitycznej   | 0.0028	False
+"PPL dane jest w  postaci," | "PPL dane jest w postaci," | 0.0171	False
+--------------------------------------------------------------------------------
+[50000/50000] Train loss: 0.02414, Valid loss: 0.01232, Elapsed_time: 13588.79736
+Current_accuracy : 94.175, Current_norm_ED  : 0.9975
+Best_accuracy    : 94.175, Best_norm_ED     : 0.9975
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+uzyskać                   | uzyskać                   | 0.3126	True
+nie jest sformułowane     | nie jest sformułowane     | 0.0154	True
+--------------------------------------------------------------------------------

@@ -1,0 +1,1634 @@
+filename,words
+line_00001.png,Ćwiczenia praktyczne przewidziane w ramach labor
+line_00002.png,a przewidywane w problemach i zadaniach Student
+line_00003.png,Wykonaj samodzielnie.
+line_00004.png,"Sugerowane narzędzia: MS Excel, Python, Matlab"
+line_00005.png,W tych narzędziach realizowany był PROJEKT.
+line_00006.png,Kontakt z wykładowcą:
+line_00007.png,adres (prywatny) email
+line_00008.png,rrebowski@gmail.com
+line_00009.png,- strona wykładowcy(*)
+line_00010.png,Oficjalny kanał: platforma GLink.
+line_00011.png,Dla kursu (wykład & lab) założony zostanie
+line_00012.png,"CLASSROOM. WAŻNE, aby student był"
+line_00013.png,przypisany do tych CLASSROOMÓW.
+line_00014.png,zajęcia będą odbywały się zgodnie z
+line_00015.png,obowiązującym harmonogramem.
+line_00016.png,ze względu na charakter realizacji zajęć
+line_00017.png,zajęcia (wykład + lab) są obowiązkowe.
+line_00018.png,PROSZĘ o punktualne logowanie się do Classroomu.
+line_00019.png,Kurs taki prowadzony był w zeszłym roku
+line_00020.png,akademickim. W zakładce Aktualności można
+line_00021.png,znaleźć całą historię związaną z procesem
+line_00022.png,realizacji kursu. Postaram się w tym roku
+line_00023.png,"zasady te zachować, o czym napiszę później."
+line_00024.png,II. Uporządkujemy i wzmocnimy wiedzę z TP (niezbędne
+line_00025.png,do wyjaśnienia i zrozumienia kursu PSK).
+line_00026.png,"mają trajektorię T (wykres funkcji F), losową"
+line_00027.png,podaje nam odpowiedzi na pytanie
+line_00028.png,w jakim stanie p znajduje dla wybranej
+line_00029.png,chwili t0
+line_00030.png,Z matematycznego punktu widzenia uzyskane F
+line_00031.png,i można dzięki rachunkowi różniczkowemu
+line_00032.png,w sposób klasyczny.
+line_00033.png,Przykład 1.
+line_00034.png,Rozważmy sygnały najprostsze – jednowymiarowe
+line_00035.png,Ponieważ kinematyka opisuje równaniem
+line_00036.png,t → x(t) – położenie na linii
+line_00037.png,prostej
+line_00038.png,Przykład 2.
+line_00039.png,Obserwowane zjawisko nazwiemy też eksperymentem.
+line_00040.png,Był przykład na jednozłotowej monecie miedzianej
+line_00041.png,"moneta, która ma dwie różne strony"
+line_00042.png,"(„Orzeł”, „Reszka”), w skrócie ang. („Head”, „Tail”)"
+line_00043.png,O R H T
+line_00044.png,"Załóżmy (dalej wyjaśnimy dlaczego!), że to nie obserwator"
+line_00045.png,będzie nadawał monecie rotację
+line_00046.png,podrzucający ją w górę.
+line_00047.png,"Proszę zwrócić uwagę, że mamy przyczyny losowości:"
+line_00048.png,IA przyczyny (— siła nadania rotacji
+line_00049.png,zjawisko polegające w określonym czasie.
+line_00050.png,"Zanim pokażemy alternatywny opis tego zjawiska,"
+line_00051.png,weźmy jeszcze jeden przykład.
+line_00052.png,Rozważmy populację ludzi – potencjalnych (bo
+line_00053.png,uprawnionych) wyborców. Zjawisko obserwujemy w
+line_00054.png,"chwili P (present), wybory odbędą się"
+line_00055.png,w przyszłości F (future).
+line_00056.png,P   F
+line_00057.png,W chwili F wszystko było już wiadome.
+line_00058.png,Ale chcemy to „wiedzieć” (w jakim sensie?)
+line_00059.png,"w chwili F - T, T = np. 14 dni"
+line_00060.png,W chwili P nigdy nie były wiadome
+line_00061.png,W chwili P nigdy nie były wiadome
+line_00062.png,"nawet jeśli jest tu, zdeterminowany fenomen."
+line_00063.png,Aby doprecyzować
+line_00064.png,obserwowana
+line_00065.png,"Populacja P jest zbyt liczna, że nie mamy"
+line_00066.png,możliwości zbadać jej całej.
+line_00067.png,udało mi: wszystko = W
+line_00068.png,orzeł {O};
+line_00069.png,reszka {R};
+line_00070.png,jednoelementowy
+line_00071.png,"Mamy kolejną warstwę opisu jakościowego, w"
+line_00072.png,postaci drugiego zbioru
+line_00073.png,"S = {∅, W, {O}, {R}}."
+line_00074.png,Zawierają już jego elementy
+line_00075.png,Taki zbiór zbiorów nazywamy
+line_00076.png,rodziną zbiorów. Oznaczamy ją często przez S
+line_00077.png,"Aby uzupełnić pełny opis zjawiska, potrzebujemy"
+line_00078.png,"warstwy ilościowej, czyli procedury pomiaru"
+line_00079.png,"„wielkości” elementów rodziny S, czyli"
+line_00080.png,"Żeby zrozumieć z jaką monetą mamy do czynienia,"
+line_00081.png,co najlepiej zrobić – powtórzmy ten eksperyment
+line_00082.png,"wielokrotnie, powiedzmy n > 2."
+line_00083.png,strony musimy brać pod uwagę stan
+line_00084.png,"ale z drugiej, bez straty możemy powtórzyć eksperyment"
+line_00085.png,Jak ocenimy W
+line_00086.png,Ustalilibyśmy zatem b = 1.
+line_00087.png,Mamy kompletny opis: jakościowo-ilościowy
+line_00088.png,"(W, S, m)"
+line_00089.png,"Jest to model teori estymacji, przedstawiony w przykładzie."
+line_00090.png,Czas na uogólnienie
+line_00091.png,Def1 (zjawiska losowe). ZL (Random experiment).
+line_100001.png,Kurs: PSK Informatyka 3
+line_100002.png,tryb: on-line
+line_100003.png,Temat: Model probabilistyczny Kołmogorowa (MPK)
+line_100004.png,Pojęcie MPK
+line_100005.png,probabilistyczny
+line_100006.png,Wtedy ω nazywamy zdarzeniem elementarnym
+line_100007.png,albo punktem próbkowym
+line_100008.png,(ii) Σ jest zbiorem złożonym z pewnych podzbiorów
+line_100009.png,przeliczalnych sum
+line_100010.png,2
+line_100011.png,"Elementy rodziny Σ nazywamy zdarzeniami, a Σ"
+line_100012.png,Przykład 1
+line_100013.png,Niech Ω=R oraz weźmy rodzinę
+line_100014.png,Istnieje najmniejsze σ-ciało zawierające A
+line_100015.png,Przykład 2
+line_100016.png,"(iii) P jest miarą określoną na Σ, czyli zdarzeniach"
+line_100017.png,zdarzeń
+line_100018.png,Zasada σ-addytywności P
+line_100019.png,P nazywamy funkcją prawdopodobieństwa
+line_100020.png,a liczby P(A) — prawdopodobieństwem zdarzenia A
+line_100021.png,nie jest prawdą.
+line_100022.png,Wtedy
+line_100023.png,ZAD2.
+line_100024.png,Korzystając z powyższego wyprowadzić wzór
+line_100025.png,ZAD3
+line_100026.png,Uzasadnić powyższy wzór
+line_100027.png,Model dyskretny.
+line_100028.png,P określany jest następująco:
+line_100029.png,Wtedy łatwo rozszerzyć tę def na dowolne A
+line_100030.png,Był to pierwszy w historii tej teorii
+line_100031.png,"model używany przez Pascala, Fermata"
+line_100032.png,i innych (początki XVII w)
+line_100033.png,Model warunkowy
+line_100034.png,Bardzo ważny model
+line_100035.png,widzenia zastosowany
+line_100036.png,Dla lepszego zrozumienia
+line_100037.png,Bierzemy dowolny MPK
+line_100038.png,gdzie
+line_100039.png,nazywamy zdarzeniem
+line_100040.png,''śladowym''
+line_100041.png,11
+line_100042.png,definiujemy następująco
+line_100043.png,nazywamy modelem warunkowym
+line_100044.png,Bardzo często piszemy
+line_100045.png,Mamy dla prawdopodobieństwa
+line_100046.png,zatem dla
+line_100047.png,"Co oznacza, że nie różnią się"
+line_100048.png,Zamieniamy rolami A z B
+line_100049.png,w tym celu
+line_100050.png,należy
+line_100051.png,Wtedy
+line_100052.png,"w szczególności jeśli warunki A,B są"
+line_100053.png,prawdopodobnie
+line_100054.png,Wtedy dla
+line_100055.png,mamy
+line_100056.png,Jest to wtedy
+line_100057.png,prawdopodobieństwo zupełne
+line_100058.png,na dwa sposoby
+line_200001.png,Kurs PSK Inf 3
+line_200002.png,tryb On-line
+line_200003.png,Wykład 3
+line_200004.png,Temat: Przykład MPK c.d.
+line_200005.png,"Podajmy konstrukcję drugiego, wtórnego MPK"
+line_200006.png,to model produktowy
+line_200007.png,Zacznijmy od sytuacji najprostszej
+line_200008.png,Mamy dwa zjawiska losowe:
+line_200009.png,obserwowane przez swojego obserwatora i odseparowane od
+line_200010.png,"siebie, tzn. między nimi nie ma żadnej interakcji"
+line_200011.png,Możemy sobie wyobrazić następującą sytuację:
+line_200012.png,Niech
+line_200013.png,i odpowiednio
+line_200014.png,będą MPK
+line_200015.png,odpowiadającymi
+line_200016.png,Podam taką
+line_200017.png,obu zjawisk
+line_200018.png,obu zjawisk
+line_200019.png,nie zmieniając założeń danych powyżej
+line_200020.png,Ponieważ zdarzenie elementarne
+line_200021.png,MPK rejestruje
+line_200022.png,MPK rejestruje
+line_200023.png,MPK rejestruje
+line_200024.png,traktujemy jako
+line_200025.png,zjawiska losowego ZL
+line_200026.png,Typowe zdarzenie A odpowiadające temu ZL ma postać
+line_200027.png,Nazywamy je prostokątem losowym
+line_200028.png,Zbiór wszystkich zdarzeń
+line_200029.png,opisujemy jako
+line_200030.png,nazywamy 6-kątem
+line_200031.png,zdarzeń produktowych
+line_200032.png,Ilustracja
+line_200033.png,"miarą, czyli f.prawdopodobieństwa określona"
+line_200034.png,na zdarzeniach produktowych. Dla produktu losowego mamy
+line_200035.png,mamy
+line_200036.png,mamy
+line_200037.png,Uwaga Spójrzmy na
+line_200038.png,prostokątem
+line_200039.png,"o ""bokach"""
+line_200040.png,MPK
+line_200041.png,który powstaje jak wyżej
+line_200042.png,modelem
+line_200043.png,produktowym
+line_200044.png,Sprawdźmy teraz czy ten model respektuje izolację
+line_200045.png,składowych MPK
+line_200046.png,W tym celu dla
+line_200047.png,wtedy dla zdarzenia
+line_200048.png,to co widzi obs
+line_200049.png,Model produktowy widzi te zdarzenia następująco
+line_200050.png,Na koniec weźmy ważne
+line_200051.png,obserwujemy łącznie wynik serii
+line_200052.png,powtórzeń
+line_200053.png,(np. n-krotny rzut pojedynczą monetą).
+line_200054.png,Wtedy
+line_200055.png,"Wreszcie, niech"
+line_200056.png,czyli
+line_200057.png,n - kostka elemetarna
+line_200058.png,Stąd
+line_200059.png,WNIOSEK
+line_200060.png,Znany nam wcześniej moduł
+line_200061.png,Model geometryczny
+line_200062.png,dalej zrozumiemy dlaczego ten przykład jest ważny
+line_200063.png,Ograniczmy się tylko do sytuacji
+line_200064.png,Zaczniemy od przykładu
+line_200065.png,"Z odcinka [0,1] losowo wybieramy"
+line_200066.png,w sposób niezależny dwie liczby
+line_200067.png,Po ich wyborze
+line_200068.png,wstawimy je do
+line_200069.png,Pytamy się: jakie jest
+line_200070.png,równanie to nie będzie
+line_200071.png,Typowe zdarzenie
+line_200072.png,ma postać
+line_200073.png,gdzie
+line_200074.png,funkcje ciągłe
+line_200075.png,czyli
+line_200076.png,A nazywamy „trapezem krzywoliniowym”)
+line_200077.png,Wtedy
+line_300001.png,kurs PSK inf3
+line_300002.png,tryb on-line
+line_300003.png,W.4
+line_300004.png,Temat: Przykład MPK c.d. wprowadzenie do teorii
+line_300005.png,rozkładu prawdopodobieństwa
+line_300006.png,Problem Buffona
+line_300007.png,Na płaszczyźnie usytuowano w odległości d proste równoległe
+line_300008.png,równoległe. Eksperyment
+line_300009.png,"polega na tym, że opuszczamy"
+line_300010.png,"polega na tym, że opuszczamy"
+line_300011.png,na tej płaszczyźnie położymy igłę
+line_300012.png,długości d. Eksperyment
+line_300013.png,"pomiędzy nimi, jeśli igła"
+line_300014.png,leżała na tej płaszczyźnie
+line_300015.png,Z jakim prawdopodobieństwem igła po upadku na płaszczyznę
+line_300016.png,Z jakim prawdopodobieństwem igła po upadku na płaszczyznę
+line_300017.png,przetnie jedną z prostych?
+line_300018.png,"Termin ""przetnie"" wyklucza zjawisko ""dotknie"""
+line_300019.png,Zatem igła może przeciąć tylko jedną z lin
+line_300020.png,Eksperyment wykonujemy: rzut igłą zajmuje
+line_300021.png,Jeśli igła upadnie
+line_300022.png,to
+line_300023.png,jest prostopadła do linii
+line_300024.png,wyróżnimy jej lewy koniec
+line_300025.png,dolny koniec
+line_300026.png,Model teoretyczny
+line_300027.png,i jego rozwiązanie
+line_300028.png,A - opisuje
+line_300029.png,W tym celu potrzebujemy dobrze dobranego układu
+line_300030.png,odniesienia
+line_300031.png,Układem będzie ta
+line_300032.png,jedna
+line_300033.png,prosta
+line_300034.png,która
+line_300035.png,znajduje się w poniżej
+line_300036.png,końca igły
+line_300037.png,W takim układzie (na płaszczyźnie)
+line_300038.png,igły opisujemy parą liczb
+line_300039.png,odl. Końca od linii ukł. odniesienia
+line_300040.png,od prostej
+line_300041.png,w kierunku przeciwnym
+line_300042.png,do ruchu wskazówek zegara do
+line_300043.png,wyznaczanej przez igły
+line_300044.png,Mamy zatem MPK
+line_300045.png,Niech A opisuje
+line_300046.png,Spójrzmy na ilustrację A (obszar zakreślony)
+line_300047.png,ZAD 1
+line_300048.png,Wstęp do teorii rozkładu prawdop
+line_300049.png,Każdemu
+line_300050.png,odpowiada co najmniej
+line_300051.png,jedno ZL.
+line_300052.png,Z tego powodu potrzebna jest procedura
+line_300053.png,Konwersji
+line_300054.png,Konwersji
+line_300055.png,Jak zobaczymy prowadzi to do przejścia
+line_300056.png,rozkładu prawdopodobieństwa
+line_300057.png,Przypadek dyskretnego
+line_300058.png,funkcja d
+line_300059.png,Dalej będą oznaczenia
+line_300060.png,A jest zbiorem przeliczalnym
+line_300061.png,Co mają przedstawić następujące
+line_300062.png,jego sumy
+line_300063.png,Zatem warunek
+line_300064.png,szereg jest zbieżny do liczby 1
+line_300065.png,zbieżny
+line_300066.png,Bernoulliego–Newtona
+line_300067.png,"Zad 2. Uzasadnić, że"
+line_300068.png,Rozkład
+line_300069.png,Poissona
+line_300070.png,Rozkład dyskretny jednomodalny
+line_300071.png,funkcja dystrybuanty
+line_300072.png,"Powiedzmy, że F jest funckją dystrybuanty"
+line_300073.png,F jest co najmniej lewo-stronnie ciągła
+line_300074.png,dyskretna f.dystrybuanty
+line_300075.png,dyskretna f.dystrybuanty
+line_300076.png,przeliczalnie wiele
+line_300077.png,"to mówimy, że"
+line_300078.png,Tutaj
+line_300079.png,opisać inaczej
+line_300080.png,Jasne jest że
+line_400001.png,Kurs PSK Inf 3
+line_400002.png,st. staj. / niest
+line_400003.png,tryb on-line
+line_400004.png,Temat: Rozkład prawdopodobieństwa c.d.
+line_400005.png,Rozkład dyskretny c.d
+line_400006.png,Przypomnienie: poznaliśmy definicję rozkładu dyskretnego
+line_400007.png,że ma on jdnoznaczną reprezentację poprzez
+line_400008.png,który nazywamy funkcją schodkową
+line_400009.png,Jak te pojęcia mają się do ZL i MPK?
+line_400010.png,Zajmijmy się teraz tą kwestią
+line_400011.png,Zaczniemy od najprostszej definicji
+line_400012.png,Def1 (dystrybuanta zmiennej losowej)
+line_400013.png,Niech dane będzie ZL oraz jego MPK
+line_400014.png,"Powiemy, iż X jest dyskretną zmienną losową, jeśli:"
+line_400015.png,czyli zbiór wartości X jest przeliczalny
+line_400016.png,co pozwala zdefiniować funkcję
+line_400017.png,"Przypomnijmy, że mamy"
+line_400018.png,i dyskretny
+line_400019.png,zmienną losową X
+line_400020.png,z warunku
+line_400021.png,mamy zdefiniowane zdarzenie
+line_400022.png,Jeśli oznaczamy
+line_400023.png,Daje to nam odcinkowe
+line_400024.png,czyli funkcji rozkładu prawdopodobieństwa
+line_400025.png,Tw 1. Każda dyskretna zm. losowa X
+line_400026.png,ma swój rozkład
+line_400027.png,gdzie
+line_400028.png,identycznie
+line_400029.png,odpowiadające
+line_400030.png,którą oznaczamy
+line_400031.png,Uwagi
+line_400032.png,pełni rolę translatora
+line_400033.png,Ponieważ
+line_400034.png,czyli jeśli
+line_400035.png,dla
+line_400036.png,ma skok
+line_400037.png,nie jest ciągła
+line_400038.png,"Zatem dla takiego a,"
+line_400039.png,Zad. 1. Udowodnić to!
+line_400040.png,służy do wyznaczenia prawd
+line_400041.png,Zachodzi tu
+line_400042.png,odwrotne
+line_400043.png,Dla każdego
+line_400044.png,istnieje co najmniej jedno ZL i jego MPK
+line_400045.png,ZAD2
+line_400046.png,Rozkłady ciagłe
+line_400047.png,A co z resztą?
+line_400048.png,"Opiszmy tylko rozkłady, które są (całkowitymi)"
+line_400049.png,przeciwieństwem dyskretnej
+line_400050.png,można je nazwać
+line_400051.png,całkowicie niedyskretne
+line_400052.png,nazywamy je
+line_400053.png,Zaczniemy od uogólnienia
+line_400054.png,Def1 (ogólna definicja dystrybuanty)
+line_400055.png,że F jest dystrybuanty
+line_400056.png,jeśli
+line_400057.png,F jest niemalejąca
+line_400058.png,F jest co najmniej lewo-stronnie ciągła
+line_400059.png,Def2
+line_400060.png,dystrybuanty rozkładu ciągłego
+line_400061.png,"Powiedzmy, że F jest dystr. rozkł. ciągłego"
+line_400062.png,poza zbiorem skończonym.
+line_400063.png,wtedy jej Mamy ją pochodną
+line_400064.png,oznaczmy f
+line_400065.png,i nazywamy funkcją gęstości rozkł. prawdy
+line_400066.png,Dla każdej F jak w def.2 istnieje
+line_400067.png,co najmniej jedna gęstość losowa (ZL)
+line_400068.png,jego MPK
+line_400069.png,"są identyczne, co oznaczamy"
+line_400070.png,bo różniczkowalna
+line_400071.png,jest odpowiednikiem tabelki dla
+line_400072.png,Niech f będzie funkcją ciągłą
+line_400073.png,taką że
+line_400074.png,istnieje co najmniej jedno ZL
+line_400075.png,MPK
+line_500001.png,Kurs: PSK Inf 3
+line_500002.png,Forma: Wykład
+line_500003.png,Tryb: On-line
+line_500004.png,Temat. Przegląd wybranych rozkładów ciągłych oraz ich
+line_500005.png,własności
+line_500006.png,Wprowadzenie
+line_500007.png,Niech X oznacza ZMIENNĄ LOSOWĄ
+line_500008.png,"jak wiemy, istnieje"
+line_500009.png,wtedy co najmniej jedno zmienną losowe (ZL) oraz
+line_500010.png,jego MPK
+line_500011.png,Dane do funkcji:
+line_500012.png,którą nazywamy dystrybuantą X i jest jednym
+line_500013.png,z dwóch parametrów rozkładu prawdopodobieństwa X.
+line_500014.png,Poznaliśmy dla typu
+line_500015.png,dyskretny (reprezent. przez
+line_500016.png,„funkcję schodkową”) i ciągłą
+line_500017.png,W tym drugim przypadku
+line_500018.png,jest zróżniczkowana
+line_500019.png,wtedy jej pochodna
+line_500020.png,jest oznaczana przez
+line_500021.png,i nazywamy funkcją gęstości X.
+line_500022.png,Wtedy
+line_500023.png,Każda
+line_500024.png,spełniająca
+line_500025.png,jest f.gęstości p. rozkładu
+line_500026.png,3 ważne przykłady rozkładów ciągłych i ich własności
+line_500027.png,P.1 Rozkład jednostajny (zwany też „prostokątnym”).
+line_500028.png,ma postać jak na rys. 1
+line_500029.png,Uwaga
+line_500030.png,pole figury ograniczone wykresem
+line_500031.png,prostokąt o wymiarach
+line_500032.png,Uwaga 2. Wyznaczyć
+line_500033.png,dlatego należy rozważyć przypadek
+line_500034.png,W szczególności
+line_500035.png,"co oznacza, że"
+line_500036.png,„skoncentrowany” na
+line_500037.png,Fakt (zasada skalowania)
+line_500038.png,Zadanie
+line_500039.png,Dalej rozkład jednostajny skalowany na
+line_500040.png,nazywamy
+line_500041.png,standardowym rozkł. jednostajnym.
+line_500042.png,Weźmy
+line_500043.png,oraz ustalmy
+line_500044.png,"Definiujemy nową zmienną losową Y, gdzie"
+line_500045.png,„ln” oznacza logarytm naturalny.
+line_500046.png,Wyznaczmy rozkład zm. losowej Y
+line_500047.png,"Wiadomo, iż"
+line_500048.png,Ponieważ
+line_500049.png,"Oznacza to, że"
+line_500050.png,jest skoncentrowana na
+line_500051.png,"dlatego mamy założenie, że dalej"
+line_500052.png,Dla takich t dostajemy:
+line_500053.png,Znając funkcję gęstości
+line_500054.png,z postaci
+line_500055.png,o różniczkowaniu
+line_500056.png,"wynika, że Y też ma rozkład ciągły"
+line_500057.png,czyli dla
+line_500058.png,Mamy zatem
+line_500059.png,co z def. rozkładu
+line_500060.png,"oznacza, że"
+line_500061.png,nazywamy rozkładem WYKŁADNICZYM
+line_500062.png,parametrem
+line_500063.png,i oznaczamy
+line_500064.png,Wyznaczmy dystrybuanty
+line_500065.png,"z powyższego wynika, iż"
+line_500066.png,co mamy przedstawić jak na
+line_500067.png,"P.3 Rozkład NORMALNY, zwany też rozkładem"
+line_500068.png,Gaussa albo CENTRALNYM.
+line_500069.png,gdzie
+line_500070.png,parametry tego rozkładu
+line_500071.png,Wtedy f gęstości ma postać
+line_500072.png,(zasada STANDARYZACJI)
+line_500073.png,zad. na ćwiczenia
+line_500074.png,rozkładu z parametrami
+line_500075.png,nazywamy standardowym rozkł. normalnym
+line_500076.png,a jego dystr. oznacz przez
+line_500077.png,a z symetrii
+line_500078.png,Będzie ćwiczenie na ten temat!
+line_600001.png,Temat
+line_600002.png,rozkładu i ich znaczenie
+line_600003.png,Niech dane będą ZL oraz jego MPK
+line_600004.png,Z teoretycznego punktu widzenia
+line_600005.png,wynikiem obserwacji ZL
+line_600006.png,jest procedurą
+line_600007.png,gdy X oznacza zmienną losową
+line_600008.png,obserwację
+line_600009.png,"Jeśli X jest dyskretna, to"
+line_600010.png,Zatem obserwujemy
+line_600011.png,na pewno
+line_600012.png,"Jeśli X jest ciągła, to"
+line_600013.png,nie może być traktowane
+line_600014.png,jako pomiar obserwacji
+line_600015.png,Mamy inny problem
+line_600016.png,co jest wynikiem pomiaru obserwacji
+line_600017.png,Zaczniemy od przypadku dyskretnego
+line_600018.png,Niech X ma rozkład dyskretny
+line_600019.png,Bierzemy ciąg liczb
+line_600020.png,"on sumowalny, czyli"
+line_600021.png,tę liczbę oznaczamy
+line_600022.png,i nazywamy wartością oczekiwaną zmiennej losowej X
+line_600023.png,albo rozkładu X.
+line_600024.png,Uwaga
+line_600025.png,"Jeśli X ma rozkład skończony, to"
+line_600026.png,istnieje zawsze
+line_600027.png,Taką liczbę nazywamy średnią ważoną (z wagami Pi)
+line_600028.png,"W szczególności, gdy X ma rozkład jednorodny"
+line_600029.png,średnia arytmetyczna
+line_600030.png,Dlatego EX
+line_600031.png,nazywamy też średnią i oznaczamy
+line_600032.png,przez m (mean z ang.)
+line_600033.png,Nie każdy rozkład X ma średnią.
+line_600034.png,Operacje
+line_600035.png,ma własność: LINIOWOŚĆ
+line_600036.png,"jeśli X,Y mają średnią, to dla"
+line_600037.png,to zmienna losowa
+line_600038.png,ma średnią
+line_600039.png,Nazywamy to „centrowaniem” rozkładu
+line_600040.png,"jeśli Y ma średnią, to mówimy, że X"
+line_600041.png,ma drugi moment i oznaczamy
+line_600042.png,Jeśli istnieje
+line_600043.png,to istnieje m
+line_600044.png,Przykłady
+line_600045.png,każda
+line_600046.png,ma rozkład jak w P1
+line_600047.png,Zatem z liniowości operacji E
+line_600048.png,X ma rozkład geometryczny.
+line_600049.png,Oblicz EX
+line_600050.png,jako drugi moment centralny
+line_600051.png,Niech X ma
+line_600052.png,Zatem X ma m
+line_600053.png,Bierzemy X−m oraz kwadrat
+line_600054.png,Wtedy wartość oczekiwaną
+line_600055.png,nazywa się
+line_600056.png,wariancją zm.losowej X i
+line_600057.png,piszę
+line_600058.png,Uwagi
+line_600059.png,nazywamy też
+line_600060.png,i oznaczamy
+line_600061.png,nazywamy dyspersją
+line_600062.png,(albo rozproszeniem) rozkładu.
+line_600063.png,Jeśli X ma
+line_600064.png,to
+line_600065.png,"Jeśli X,Y mają 2-gi moment i są"
+line_600066.png,"stochastycznie niezależne, to"
+line_600067.png,obliczyć!
+line_600068.png,Przypadek rozkładu ciągłego
+line_600069.png,Niech X jak niżej; jeśli istnieje całka
+line_600070.png,to oznaczamy ją
+line_600071.png,lub średnią. Mamy
+line_600072.png,Operacja X → EX (jak w przypadku
+line_600073.png,dyskretnym) jest liniowa
+line_600074.png,"Podobnie jak w przypadku dyskretnym, biorąc"
+line_600075.png,jeśli
+line_600076.png,"ma wartość oczekiwaną, to mówimy, że"
+line_600077.png,X ma 2-i moment i piszemy
+line_600078.png,"W szczególności, 2-i moment centralny"
+line_600079.png,oznaczamy Var(X)
+line_600080.png,Dlatego
+line_600081.png,zasada standaryzacji
+line_600082.png,Zasada pomiaru i jego niepewności
+line_600083.png,Mamy ZL o rozkładzie
+line_600084.png,z drugim
+line_600085.png,"momentem. Jak wiemy, wtedy"
+line_600086.png,oraz
+line_600087.png,Dla
+line_600088.png,weźmy zdarzenie
+line_600089.png,"które śledzi zjawisko, że wynik (teoretyczny) obserwacji"
+line_600090.png,należy do przedziału
+line_600091.png,"Można udowodnić, że"
+line_600092.png,Z dowolnie dużym prawdop
+line_600093.png,"zdarzy się, że teoretyczna wartość obserwacji"
+line_600094.png,będą z przedziału o środku EX
+line_600095.png,i długości
+line_600096.png,czyli miarę
+line_600097.png,rozproszenia
+line_600098.png,Wtedy
+line_600099.png,Wtedy
+line_600100.png,jest miarą niepewności
+line_600101.png,"pomiaru, w którym przyjmujemy, iż wynikiem"
+line_600102.png,wartość średnia
+line_600103.png,"Obserwując ZL musimy przyjąć, że na tym"
+line_600104.png,etapie nie znamy rozkładu X
+line_600105.png,"Z drugiej strony, za wynik obserwacji bierzemy"
+line_600106.png,Jak pozyskać
+line_600107.png,nie znając rokładu?
+line_600108.png,Odpowiedzią na to pytanie są dwa funda -
+line_600109.png,mentalne twierdzenia TEORII PRAWDOP.
+line_600110.png,zwane TWIERDZENIAMI GRANICZNYMI
+line_600111.png,Tw. graniczne
+line_600112.png,MOCNE PRAWO WIELKICH
+line_600113.png,LICZB BERNOULLIEGO
+line_600114.png,Twierdzenie to rozwiązuje problem wyznaczenia m = EX w sytuacji
+line_600115.png,nie możemy wyliczyć tej liczby (bo np. nie znamy
+line_600116.png,ZAŁOŻENIA (MPWLB)
+line_600117.png,X ma co najmniej 2-i moment
+line_600118.png,jest ciągiem niezależnych zmiennych losowych każdej
+line_600119.png,o tym samym rozkładzie co X
+line_600120.png,Bierzemy
+line_600121.png,Wtedy
+line_600122.png,Uwaga
+line_600123.png,"Praktycznie zastosowanie tu, polega na tym, że"
+line_600124.png,dla odpowiednio dużych n
+line_600125.png,"Wiemy, że m=EX jest uważane jako wynik"
+line_600126.png,obserwacji ZL. Zatem
+line_600127.png,jest dowodem
+line_600128.png,"na to, co już stosujemy na co dzień"
+line_600129.png,"Poznanie ""czegoś"" nowego (ZL) wymaga"
+line_600130.png,"metodologii obserwacji, po to aby wyniki tych"
+line_600131.png,obserwacji po ich uśrednieniu uważać za
+line_600132.png,pomiar ZL.
+line_600133.png,Weżmy rozkład X:
+line_600134.png,"Aby wyznaczyć p, zgodnie z"
+line_600135.png,bierzemy
+line_600136.png,kopie niezależne X i układ
+line_600137.png,(dane obserwacji)
+line_600138.png,Ale lewa strona
+line_600139.png,Ale lewa strona
+line_600140.png,jest funkcją zaobserwowanych
+line_600141.png,sukcesów
+line_600142.png,"w serii powtórzeń, czyli"
+line_600143.png,prawd. TEORETYCZNE
+line_600144.png,prawd. EMPIRYCZNE
+line_600145.png,Tw. graniczne nazywa się CENTRALNYM
+line_600146.png,"CTG opisuje ewolucję rozkładu, jeśli podlega"
+line_600147.png,on procedurze uśrednienia
+line_600148.png,ZAŁOŻENIA
+line_600149.png,X ma co najmniej drugi moment
+line_600150.png,istnieje
+line_600151.png,"Bierzemy ciąg niezależnych kopii X, czyli"
+line_600152.png,Uśredniamy go
+line_600153.png,standaryzujemy
+line_600154.png,Praktyczne zastosowania CTG
+line_600155.png,Dla dużych n mamy przybliżenie
+line_600156.png,Wersja klasyczna: Tw. Moivre’a-Laplace’a jako
+line_600157.png,przykład aproksymacji rozkładu
+line_600158.png,Niech
+line_600159.png,Oszacujmy
+line_600160.png,nie mamy faktycznej
+line_600161.png,Dalej
+line_600162.png,standaryzujemy
+line_700001.png,Uzupełnienie do W9
+line_700002.png,Kurs PSK
+line_700003.png,Uwagi do I metody generowania l. (pseudo)losowych
+line_700004.png,Algorytm
+line_700005.png,Seed
+line_700006.png,jest przykładem tzw. LCG (Linear Congruential Generator
+line_700007.png,W wersji (*) nazywa się też generatorem multiplikatywnym
+line_700008.png,Lehmera. (1951 r)
+line_700009.png,"Widać, że"
+line_700010.png,wtedy
+line_700011.png,k nazywamy okresem.
+line_700012.png,"Można udowodnić, że"
+line_700013.png,"Dla (*), jeśli"
+line_700014.png,to
+line_700015.png,okres
+line_700016.png,nieparzyste
+line_700017.png,Przetestować własności LCG
+line_700018.png,Jedną z metod weryfikacji „losowości” generatora
+line_700019.png,jest interpretacją geometryczną
+line_700020.png,"W wersji n=2 polega na tym, że"
+line_700021.png,a) generujemy
+line_700022.png,b) bierzemy
+line_700023.png,c) nanosimy te punkty
+line_700024.png,Powstały rozkład bada się pod kątem
+line_700025.png,"pojawiających się regularności (np. proste, okręgi)."
+line_700026.png,Oczekuje się bowiem efekt
+line_700027.png,ZAD
+line_700028.png,Zastosować powyższy proces dla L=100
+line_700029.png,dla obu algorytmów
+line_700030.png,Kolejna metoda aproksymacji
+line_700031.png,Bierzemy
+line_700032.png,Stosując MMC dla całki
+line_700033.png,ZADANIE
+line_700034.png,Wygeneruj L=100
+line_700035.png,wykorzystując pierwszy algorytm
+line_800001.png,PSK - zajęcia zaplanować na 2.04
+line_800002.png,Wstęp. Stochastyczne ujęcie zjawiska symulacji
+line_800003.png,(a takie jest najefektywniejsze) wymaga umiejętności
+line_800004.png,stosowania procedury GENEROWANIA LICZB LOSOWYCH
+line_800005.png,"(RANDOM NUMBERS), czyli liczb z przedziału"
+line_800006.png,które są
+line_800007.png,reprezentowane przez zmienną
+line_800008.png,gdzie
+line_800009.png,funkcja gęstości ma postać
+line_800010.png,Powstaje pytanie
+line_800011.png,jak zrealizować ten procesy/procedury?
+line_800012.png,W dobie przedkomputerowej stosowano do tego celu
+line_800013.png,tzw. GENERATORY FIZYCZNE
+line_800014.png,"tw. ""generowania ręcznego"""
+line_800015.png,albo
+line_800016.png,mechanicznego
+line_800017.png,w postaci
+line_800018.png,"obracania kołem, rzucania monetą/kością"
+line_800019.png,losowania karty
+line_800020.png,W dobie IT robi się to przy użyciu tzw. GENERATORÓW
+line_800021.png,PROGRAMOWYCH
+line_800022.png,Ponieważ wykonywanie (przez komputer) takiego programu
+line_800023.png,ma charakter deterministyczny
+line_800024.png,bo zostało
+line_800025.png,zaplanować
+line_800026.png,nie można wyniku tak realizowanego procesu/procedury
+line_800027.png,nazywać LOSOWYM
+line_800028.png,Z drugiej strony algorytmy realizujące te procesy
+line_800029.png,"dbają o to,aby"
+line_800030.png,ich wynikiem były liczby z
+line_800031.png,pojawiały się w
+line_800032.png,warunkach
+line_800033.png,Z tego powodu nazywamy je LICZBAMI (PSEUDO)LOSOWYMI
+line_800034.png,Metodologia określająca (PSEUDO)LOSOWYCH SPOSÓB GENEROWANIA
+line_800035.png,polega na
+line_800036.png,polega na:
+line_800037.png,a) zainicjowaniu wartości początkowej
+line_800038.png,zwanej też „ziarnem” (ang. SEED)
+line_800039.png,"stosowaniu rekurencji, celem generowania"
+line_800040.png,"kolejnych liczb, gdzie postać tej rekurencji"
+line_800041.png,jest następująca
+line_800042.png,gdzie
+line_800043.png,(dane liczby dodatnie)
+line_800044.png,całkowite = naturalne
+line_800045.png,Mamy więc
+line_800046.png,Uwagi
+line_800047.png,Przypomnienie relacji modulo
+line_800048.png,(czyli kon-
+line_800049.png,gruencji)
+line_800050.png,Niech dana będzie liczba
+line_800051.png,"Mówimy, że"
+line_800052.png,przystaje modulo p
+line_800053.png,oznacza resztę z dzielenia
+line_800054.png,n przez p
+line_800055.png,Potrzebna jest więc ZASADA PODZIELNOŚCI
+line_800056.png,Niech dana będzie liczba całkowita
+line_800057.png,oraz ustalona liczba
+line_800058.png,Wtedy istnieją dokładnie dwie liczby
+line_800059.png,Wtedy
+line_800060.png,nazywamy resztą z dzielenia
+line_800061.png,przez K
+line_800062.png,"Podstawowa własność kongruencji mówi, że"
+line_800063.png,czyli n i m są w relacji mod p
+line_800064.png,p dzieli ich różnicę
+line_800065.png,W przykładzie powyżej
+line_800066.png,podziele przez 4
+line_800067.png,Relacja mod ma 3 podstawowe własności
+line_800068.png,znane z kursu MAT. DYSKRETNEJ
+line_800069.png,jest zwrotna
+line_800070.png,symetryczna
+line_800071.png,przechodnia
+line_800072.png,Co wynika wprost z uwagi 2
+line_800073.png,"WIEMY, że każda relacja o tych własnościach"
+line_800074.png,jest RELACJĄ RÓWNOWAŻNOŚCI
+line_800075.png,"To z kolei oznacza, że generuje ona partycję"
+line_800076.png,"zbioru, na którym jest określona"
+line_800077.png,Każdy atom takiej partycji jest wtedy
+line_800078.png,klasę abstrackji danej liczby
+line_800079.png,Wróćmy do naszego algorytmu
+line_800080.png,Mamy kolejno:
+line_800081.png,Podobne dla
+line_800082.png,są tymi pseudolosowymi
+line_800083.png,"liczbami, które przybliżają wartość zmiennej"
+line_800084.png,losowej
+line_800085.png,Weźmy przykład rachunkowy
+line_800086.png,wtedy kolejno
+line_800087.png,Uwagi
+line_800088.png,wygenerowane
+line_800089.png,TAK JEST ZAWSZE
+line_800090.png,DLATEGO stałe a i m muszą spełniać następujące kryteria:
+line_800091.png,następujące kryteria
+line_800092.png,pojawianie sie
+line_800093.png,dla ustalonej wartości seed
+line_800094.png,powinno przebiegać w warunkach stochast.
+line_800095.png,niezależności
+line_800096.png,okres powtórzenia się wielkości
+line_800097.png,czyli k−n powinno być odpowiednio
+line_800098.png,duży!
+line_800099.png,powinny dać się obliczyć na maszynie
+line_800100.png,"wykazano, że na 32-bitowej maszynie"
+line_800101.png,ZADANIE 1
+line_800102.png,o algorytmie kwadratowym
+line_800103.png,von Neumanna
+line_800104.png,Cel: generowanie liczb (pseudo)losowych o jednakowej
+line_800105.png,"liczbie cyfr m, gdzie m jest parzyste"
+line_800106.png,Liczby te są całkowite
+line_800107.png,Liczby te są całkowite
+line_800108.png,Algorytm
+line_800109.png,Zainicjuj algorytm liczbą całkowitą
+line_800110.png,Weź wcześniej wygenerowaną liczbę
+line_800111.png,Oblicz
+line_800112.png,"Jeśli to potrzebne, dopisz odpowiednią"
+line_800113.png,liczbą zer na początku
+line_800114.png,tak aby
+line_800115.png,otrzymać liczbę 2m cyfrową
+line_800116.png,Za
+line_800117.png,przyjmij m środkowych cyfr z
+line_800118.png,modyfikacji
+line_800119.png,Oczekiwania: napisać program realizujący ten
+line_800120.png,algorytm dla
+line_800121.png,"Podam przykład liczby, żeby algorytm był"
+line_800122.png,bardziej zrozumiały
+line_800123.png,Weźmy
+line_800124.png,(Seed)
+line_800125.png,Wtedy mamy kolejno
+line_800126.png,przebieg
+line_800127.png,Podamy teraz klasyczny przykład użycia liczb
+line_800128.png,"(pseudo)losowych, bowiem po raz pierwszy były do"
+line_800129.png,tego celu wykorzystane
+line_800130.png,Problem. Obliczenia całki
+line_800131.png,Idea jest następująca: dla rozkładu jednostajnego
+line_800132.png,jeśli weźmiemy zmienną
+line_800133.png,losową
+line_800134.png,to
+line_800135.png,Z mocnego prawa wielkich liczb Bernoulliego
+line_800136.png,"wiemy, że"
+line_800137.png,biorąc ciąg
+line_800138.png,niezależnych zm. losowych o rozkł
+line_800139.png,zamieniając go na
+line_800140.png,uśredniając go
+line_800141.png,otrzymamy ciąg
+line_800142.png,zbieżny do
+line_800143.png,Efekt (teoretyczny) zaprezentowany wyżej
+line_800144.png,możemy praktycznie zrealizować za pomocą
+line_800145.png,liczb (pseudo)losowych
+line_800146.png,Takie podejście do rozwiązania problemu leży
+line_800147.png,Takie podejście do rozwiązywania problemu leży
+line_800148.png,"u podstaw METOD MONTE CARLO, o czym"
+line_800149.png,mowa będzie później
+line_800150.png,ZADANIE 2
+line_800151.png,"Obliczyć, aproksymując MMC, wartość"
+line_800152.png,całki
+line_800153.png,Korzystajac z ZAD1
+line_800154.png,ciąg liczb (pseudo)losowych
+line_800155.png,i obliczyć
+line_800156.png,Innym dobrze znanym przykładem z zastosowaniem
+line_800157.png,liczb (pseudo)losowych na wczesnym etapie jest
+line_800158.png,liczb (pseudo)losowych na wczesnym etapie jest
+line_800159.png,problem aproksymacji liczby
+line_800160.png,Aproksymacja liczby
+line_800161.png,podejście
+line_800162.png,Weźmy zbiór
+line_800163.png,losowe o rozkład. jednostajnym
+line_800164.png,weźmy wektor losowy
+line_800165.png,"Wpisujemy w kwadrat okrąg jak wyżej, który"
+line_800166.png,"ogranicza koło O o środku (0,0) i promieniu 1"
+line_800167.png,Interesuje nas zdarzenie
+line_800168.png,"Z założenia mamy model geometryczny, a"
+line_800169.png,Mamy „klucz” do
+line_800170.png,"Musimy go „mocno"" poprawić, aby zastosować"
+line_800171.png,MPWLB
+line_800172.png,o wartości
+line_800173.png,oczekiwań
+line_800174.png,oczekiwań
+line_800175.png,W tym celu definiujemy zm. losową
+line_800176.png,dla pozostałych
+line_800177.png,Mamy do pokonania jeszcze jeden problem
+line_800178.png,pojawiają się dwie zmienne losowe
+line_800179.png,Pokażemy jak zrobić je z jednej
+line_800180.png,o którym mowa wyżej
+line_800181.png,ZADANIE 3
+line_800182.png,ZADANIE 3
+line_800183.png,Stosując powyższą metodologię (opartą
+line_800184.png,na koncepcji MMC) oszacowac
+line_800185.png,WSK. 1) Wykorzystać ZADANIE 1
+line_800186.png,Po wygenerowaniu
+line_800187.png,"i uśrednić liczby tych k, które spełniają"
+line_800188.png,powyższy warunek.
+line_900001.png,Kurs: Badania Operacyjne / ZIP
+line_900002.png,"st. stacj. i niestacj,"
+line_900003.png,"Wykład, wykładowca dr inż. Ryszard RĘBOWSKI"
+line_900004.png,Forma zajęć:
+line_900005.png,Tryb: zajęcia on-line
+line_900006.png,Wykład 1
+line_900007.png,Temat: Sformułowanie problemu PROGRAMOWANIA
+line_900008.png,Uwagi nt organizacji zajęć
+line_900009.png,Kurs składa się z 7 (st. stacj.) / 6 (st. niest.) wykładów 24
+line_900010.png,przewidziane są ćwiczenia.
+line_900011.png,W tej samej ilości
+line_900012.png,W trybie on-line
+line_900013.png,on-line student przypisany jest do Classroomu
+line_900014.png,"dwa.: wykład, ćwiczenia"
+line_900015.png,Zajęcia odbywają się zgodnie z harmonogramem. Ćwiczenia\
+line_900016.png,są obowiązkowe.
+line_900017.png,Komunikacja wykładowca ↔ student:
+line_900018.png,a) poprzez e-mail rrebowski@gmail.com
+line_900019.png,b) poprzez strony wykładowcy
+line_900020.png,www.pwsz.legnica.edu.pl/~rebowski
+line_900021.png,"w ramach zakładki: Aktualności, Badania Operacyjne"
+line_900022.png,"zajęcia w trybie on-line s. letni 2020/2021, konsultacje"
+line_900023.png,"W zakładce znajdą Państwo opis kursu, literaturę oraz"
+line_900024.png,listy zadań na ćwiczenia (proszę sobie je pobrać).
+line_900025.png,"c) poprzez nazwę Classroom: zakładki: strumień, zadania,"
+line_900026.png,oceny
+line_900027.png,Zasady zaliczenia kursu
+line_900028.png,ćwiczenia na ocenę na podstawie kolokwium
+line_900029.png,wykład na ocenę (ale nie egzamin)
+line_900030.png,Kilka uwag nt genezy B.O.
+line_900031.png,Pierwsze prace związane z
+line_900032.png,"B.O., o charakterze typowo matematycznym."
+line_900033.png,pojawiły się we wczesnych latach 30 tych XX w.
+line_900034.png,"Co ciekawe, wtedy dominował Wschód - Rosja Sowiecka"
+line_900035.png,Ich praktyczny aspekt został zauważony w czasie II wojny św.
+line_900036.png,"w USA i Wlk. Brytanii, a dokładnie dotyczył współczesnych"
+line_900037.png,metod pozwalających podejmować efektywne decyzje w dobrze związanym
+line_900038.png,z LOGISTYKĄ i PLANOWANIEM
+line_900039.png,"Ich spektakularnym zastosowaniem było przygotowanie do II frontu,"
+line_900040.png,"do zaplanowania operacji Overlord, do jej"
+line_900041.png,ówcześni wojskowi nie byli w stanie rozwiązać piętrzących
+line_900042.png,się problemów związanych z ogromem operacji dynamikę
+line_900043.png,"uwarunkowań, jej wieloaspektowości"
+line_900044.png,czasem. Potrzebny był geniusz.
+line_900045.png,i krótkim do dyspozycji
+line_900046.png,i taki akurat żył
+line_900047.png,na kontynencie amerykański - był nim John von Neumann
+line_900048.png,"Proszę pamiętać, że w tym okresie"
+line_900049.png,powstają podwaliny pod IT
+line_900050.png,- prace nad pierwszymi maszynami
+line_900051.png,i cyfrowymi.
+line_900052.png,"Na kontynencie, ważną praktyczną rolę zaczynają odgrywać"
+line_900053.png,prace teoretyczne drugiego geniusza — Alana TURINGA
+line_900054.png,Dlatego w tamtejszym okresie
+line_900055.png,właśnie dyscyplina nazywała się
+line_900056.png,BADANIE OPERACJI (chodziło o wysiłek operacji).
+line_900057.png,"W latach 70, po „odmrożeniu” zaczęto używać nazwy"
+line_900058.png,BADANIA OPERACYJNE (Operations Research)(OR)
+line_900059.png,Obecnie w użyciu jest nazwa NAUKA O ZARZĄDZANIU
+line_900060.png,(Management Science) MS
+line_900061.png,Co jest istotą MS/OR?
+line_900062.png,"jest nauką interdyscyplinarną, opartą na metodach"
+line_900063.png,"matematycznych z obszarów: analizy funkcjonalnej, teorii gier,"
+line_900064.png,"teorii grafów, metod stochastycznych"
+line_900065.png,związanych jest (aplikacje) z teorią podejmowania decyzji
+line_900066.png,w kontekście wypracowania metod pozwalających wyciągnąć
+line_900067.png,problemy dezycyjne w sposób efektywny (bo optymalny)
+line_900068.png,zatem takich sfer działalności człowieka jest
+line_900069.png,a) organizacji produkcji
+line_900070.png,b) planowaniu i zarządzaniu
+line_900071.png,przedsiębiorstwie
+line_900072.png,"c) logistyki, łańcucha dostaw"
+line_900073.png,Z metodologicznego punktu widzenia rozwiązywanie problemu decyzyjnego
+line_900074.png,"za pomocą MS/OR jest procesem, na który składa się"
+line_900075.png,(w określonej kolejności) kilka etapów:
+line_900076.png,a) rozpoznanie sytuacji decyzyjnej (dalej
+line_900077.png,tabeli sytuacji)
+line_900078.png,b) zbudowanie modelu teoretycznego jako obrazu
+line_900079.png,tej sytuacji.
+line_900080.png,c) rozwiązanie (matematyczne) tego modelu
+line_900081.png,d) weryfikacja poprawności uzyskanych wartości
+line_900082.png,(metoda wrażliwości - symulacje)
+line_900083.png,e) wdrożenie tych rozwiązań
+line_900084.png,"My skoncentrujemy się (a), (b) i (c)"
+line_900085.png,Przedstawienie tu zagadnień przechodzi do MS/OR
+line_900086.png,MS/OR
+line_900087.png,I. Wybór asortymentu produkcji:
+line_900088.png,"Generalnie, trzeba podjąć decyzję (optymalną), które"
+line_900089.png,wyroby i w jakiej ilości (w ramach dostępnego wolumenu
+line_900090.png,produkcji)
+line_900091.png,zysk / przychód
+line_900092.png,"z ich sprzedaży/dystrybucji, przy danych zasobach"
+line_900093.png,materiałów i środków produkcji
+line_900094.png,Typowa sytuacja wygląda następująco:
+line_900095.png,Dany zakład ma produkować
+line_900096.png,wyroby:
+line_900097.png,Dla ich produkcji zużywa różne
+line_900098.png,"środki produkcyjne, które posiada w ograniczonej ilości"
+line_900099.png,Stosowane procesy technologiczne definiujemy normy zużycia
+line_900100.png,tych środków nma jednostki wyrobu
+line_900101.png,Znany zasób tych środków. Wreszcie znany np.
+line_900102.png,ceny jednostkowe zbytu tych wyrobów.
+line_900103.png,"do odpowiedzi, na kwestie"
+line_900104.png,Decyzja sprowadza się do odpowiedzi
+line_900105.png,produkcji
+line_900106.png,a) które spośród
+line_900107.png,b) w jakiej ilości
+line_900108.png,"aby nie przekroczyć limitów, a jednocześnie wygenerować"
+line_900109.png,największy z możliwych zysk/przychód przy akceptacji
+line_900110.png,danych cen jednostkowych.
+line_900111.png,Przykład 1 (liczby)
+line_900112.png,Przedsiębiorstwo X produkuje 2 wyroby: W1 i W2. W procesie
+line_900113.png,produkcji tych wyrobów zużywa dwa limitowane środki produkcji
+line_900114.png,Limity tych
+line_900115.png,środków wynoszą odpowiednio
+line_900116.png,Nakłady tych środków są następujące:
+line_900117.png,"Dodatkowo wiadomo, że limity produkcyjne na"
+line_900118.png,"Ponadto specyfika X wymaga, aby"
+line_900119.png,zachować proporcję # W1 =
+line_900120.png,"ceny jednostkowe: W1 → 30, W2 → 40."
+line_900121.png,Wreszcie
+line_900122.png,"Należy: ustalić rozmiar produkcji, przy założeniu że"
+line_900123.png,przychód ze sprzedaży był maksymalny.
+line_900124.png,Problem mieszany
+line_900125.png,"Generalnie należy podjąć decyzję określając, jaką ilość danych"
+line_900126.png,"surowców należy nabyć (zmieszać), aby uzyskać"
+line_900127.png,produkt finalny o oczekiwanych własnościach określonych
+line_900128.png,"zawartość składników, z których składają się te"
+line_900129.png,uwzględniając
+line_900130.png,(minimalizując go)
+line_900131.png,koszt nabycia tych surowców
+line_900132.png,Bardzo często zagadnienie to uważane jest jako PROBLEM
+line_900133.png,czyli rozważa się kwestię określenia
+line_900134.png,jakie ilości produktów
+line_900135.png,zakupić (po znanych cenach)
+line_900136.png,czy przy racjonalnym zaspokojeniu potrzeb(organizm)
+line_900137.png,obniżyć do min koszty wyżywienia.
+line_900138.png,Zatem celem osoby odpowiedzialnej za realizację
+line_900139.png,tego procesu (żywienia) jest wybór takiego
+line_900140.png,"„mieszanki” żywieniowej, która ze wszystkich"
+line_900141.png,dopuszczalnych (bo obowiązuje określona dieta!)
+line_900142.png,będzie najtańszy (to wcale
+line_900143.png,"nie oznacza, że najgorszy!)"
+line_900144.png,Przykład 2 (mieszanki)
+line_900145.png,sporządzić paszę będącą mieszanką celem żywienia hodowli zwierząt.
+line_900146.png,Spółdzielnia produkcyjna
+line_900147.png,dwóch produktów
+line_900148.png,Każda ma dostarczyć zwierzęta (= też DIETY)
+line_900149.png,w ilościach
+line_900150.png,trzech składników:
+line_900151.png,nie mniejszych niż określone minima
+line_900152.png,Dokładnie:
+line_900153.png,Zawartość składników
+line_900154.png,następujących
+line_900155.png,jednostkowe nabycia
+line_900156.png,ceny
+line_900157.png,Należy podjąć właściwą
+line_900158.png,"takiej ilość P1, P2, aby"
+line_900159.png,produkt finalny spełniający
+line_900160.png,właściwą decyzję o koszcie nabycia
+line_900161.png,aby z jednej strony dostarczyć
+line_900162.png,"spełniający wymagania diety,"
+line_900163.png,po min. kosztach
+line_900164.png,III Wybór procesu technologicznego - zagadnienie
+line_900165.png,wycinania
+line_900166.png,Generalnie stoimy przed wyborem: jaką metodę
+line_900167.png,"zrealizować zamówienie, aby koszt realizacji (a"
+line_900168.png,zysk z transakcji) był najwyższy z
+line_900169.png,że sytuacja bliska jest I.
+line_900170.png,I. Tym razem
+line_900171.png,mamy zamówienie (czyli wiemy co i ile produkować)
+line_900172.png,Musimy w ramach będących do dyspozycji środki
+line_900173.png,"produkcji i technologii  zastosować takie, aby"
+line_900174.png,przy realizacji zamówienia ponieść najmniejsze
+line_900175.png,koszty.
+line_900176.png,Dokładnie
+line_900177.png,do wyprodukowania określonej ilości wyrobów
+line_900178.png,"mamy do dyspozycji: T1, T2, ..., Tn technologii"
+line_900179.png,do ich wytwarzania.
+line_900180.png,Znaj. - wielkości zamówienia
+line_900181.png,- wydajności technologii w przeliczeniu na
+line_900182.png,jednostki wyrobu
+line_900183.png,- koszt jednostkowy użycia
+line_900184.png,Należy: dobrać takie technologie spośród
+line_900185.png,decydując o jakiej ilości mają być użyte
+line_900186.png,"aby z jednej strony zrealizować zamówienie,"
+line_900187.png,a z drugiej ponieść jak najmniejszy koszt
+line_900188.png,Typowym przykładem tego
+line_900189.png,zagadnienia
+line_900190.png,ZAGADNIENIE OPTYMALNEGO WYKROJU
+line_900191.png,Do produkcji
+line_900192.png,detali stosujemy różne
+line_900193.png,techniki wykrawania z jednolitego surowca
+line_900194.png,(np. produkcja el. karoserii sam).
+line_900195.png,takich wyrobów
+line_900196.png,Mamy zamówione
+line_900197.png,w tym celu metody:
+line_900198.png,wycinamy
+line_900199.png,te detale z arkusza
+line_900200.png,blachy.
+line_900201.png,"gdzie generuje odpad, który"
+line_900202.png,Każda taka
+line_900203.png,dla
+line_900204.png,trzeba ciąć
+line_900205.png,"naszym kosztem. Wiemy, że dla"
+line_900206.png,jednostki koszt wyrobu trzeba ciąć
+line_900207.png,odpowiedniej ilości tech.
+line_900208.png,Należy wyznaczyć optymalny sposób cięcia
+line_900209.png,minimalizujący łączny odpad i pozwalający
+line_900210.png,zrealizować zamówienie.
+line_900211.png,Przykład 3 Tartak
+line_900212.png,otrzymuje zamówienie na
+line_900213.png,100 desek
+line_900214.png,"o dł. 2m każda, 150 desek o dł. 2,5m każda"
+line_900215.png,i 200 desek o dł.
+line_900216.png,Deski otrzymuje się z rozcinania i docinania
+line_900217.png,kłód o dł. 10m
+line_900218.png,zapewnia produkty optymalne
+line_900219.png,Należy
+line_900220.png,(IV) Zagadnie TRANSPORTOWE
+line_900221.png,Najlepiej jest przestawić zagadnienie językiem ekonomii rynku -
+line_900222.png,strony popytowo-podażowej i równowagi rynkowej
+line_900223.png,Strona popytu: reprezentowana przez odbiorców:
+line_900224.png,Znanczy zapotrzebowanie każdego
+line_900225.png,popyt łączny
+line_900226.png,strona podażowa: reprezentowana przez dostawców
+line_900227.png,dostawców:
+line_900228.png,Znamy możliwość każdego dostawcy
+line_900229.png,a więc łączną
+line_900230.png,Zachodą dwa przypadki
+line_900231.png,równowaga
+line_900232.png,tzw. zamknięte zag.
+line_900233.png,Transp. (ZZT)
+line_900234.png,(OZT).
+line_900235.png,Elementy
+line_900236.png,zlokalizowane są na siatce
+line_900237.png,(model STATYCZNY)
+line_900238.png,każdy Di może przepływać
+line_900239.png,każdemu Oi i na odwrót
+line_900240.png,Znane są koszty jednostkowe w relacji
+line_900241.png,Należy zaproponować taką logistykę dostaw
+line_900242.png,aby rozdysponować
+line_900243.png,w całości
+line_900244.png,koszt dostaw
+line_900245.png,był najmniejszy z możliwych.
+line_900246.png,Przykład 4
+line_900247.png,dostarcza cukier trzem hurtowniom.
+line_900248.png,Trzech dostawców
+line_900249.png,u dostawców znajduje się odpowiednio
+line_900250.png,Zapotrzebowanie na cukier wynosi kolejno
+line_900251.png,Jednostkowe koszty transportu są
+line_900252.png,następne
+line_900253.png,Należy ustalić optymalny plan przewozu minimalizujący
+line_900254.png,koszt transportu
+line_1000001.png,KURS: B.O. / ZiP st. stacj./niest.
+line_1000002.png,Forma 2.: WYKŁAD
+line_1000003.png,TRYB: ON-LINE
+line_1000004.png,W5
+line_1000005.png,Temat: MODELOWANIE ZJAWISK PROWADZĄCYCH DO PPL c.d.
+line_1000006.png,III PROBLEM WYBORU TECHNOLOGII.
+line_1000007.png,Identyfikacja typu: m - # wyrobów
+line_1000008.png,n - # technologii
+line_1000009.png,gdzie:
+line_1000010.png,wyroby
+line_1000011.png,technologie
+line_1000012.png,def. zmiennych decyzyjnych:
+line_1000013.png,jedn. użycia technologii
+line_1000014.png,definicja wzoru
+line_1000015.png,tech
+line_1000016.png,koszt użycia
+line_1000017.png,jedn. techn.
+line_1000018.png,koszt łączny użycia
+line_1000019.png,dziedziny F
+line_1000020.png,4) definiujemy
+line_1000021.png,oraz warunki ograniczające:
+line_1000022.png,jedn. do wyprodukowania wyrobu
+line_1000023.png,po użyciu
+line_1000024.png,jedn.
+line_1000025.png,liczba
+line_1000026.png,technologii
+line_1000027.png,liczba jedn.
+line_1000028.png,po użyciu wszystkich technologii
+line_1000029.png,do wyprodukowania
+line_1000030.png,więc
+line_1000031.png,Przykład w W1
+line_1000032.png,Tartak otrzymał zamówienie na 100 desek o dł.
+line_1000033.png,"2m każda, 150 desek o dł. 2,5m i 200 desek"
+line_1000034.png,"o dł. 3,5m."
+line_1000035.png,otrzymuje się z rozcinania i docinania kłód
+line_1000036.png,deski
+line_1000037.png,dł. 10m
+line_1000038.png,Uwaga: W zagadnieniach j.w. na ogół nie pojawia się
+line_1000039.png,w sposób jawny dot.
+line_1000040.png,oraz
+line_1000041.png,wyrobów i ustalenia m.
+line_1000042.png,Zaczynamy od definicji
+line_1000043.png,Niech
+line_1000044.png,deska o dł. 2m
+line_1000045.png,Zatem
+line_1000046.png,Wektor produkcji:
+line_1000047.png,ustalić techniki i odpady jednostkowe.
+line_1000048.png,odpad
+line_1000049.png,Agregacja danych
+line_1000050.png,Model
+line_1000051.png,Identyfikacja typu m
+line_1000052.png,# dostawców
+line_1000053.png,n - # odbiorców
+line_1000054.png,def. zmiennych decyzyjnych
+line_1000055.png,jedn. towaru
+line_1000056.png,dostarczono przez
+line_1000057.png,do
+line_1000058.png,koszt przewiezienia jednostki towaru
+line_1000059.png,na trasie
+line_1000060.png,def. f. celu F
+line_1000061.png,koszt cząstkowy przewiezienia
+line_1000062.png,jedn. towaru na trasie
+line_1000063.png,koszt tego transportu
+line_1000064.png,Warunki Organizacyjne
+line_1000065.png,od strony dostawców
+line_1000066.png,"od strony odbiorców, czyli:"
+line_1000067.png,Agregacja parametrów
+line_1000068.png,Wtedy macierz
+line_1000069.png,macierz
+line_1000070.png,kosztów jednost.
+line_1000071.png,macierz
+line_1000072.png,transportowa
+line_1000073.png,Przykład z W1
+line_1000074.png,dostawy
+line_1000075.png,odbiorcy
+line_1000076.png,Uwagi.
+line_1000077.png,nam opisać
+line_1000078.png,wektor limitów
+line_1000079.png,cen jedn.
+line_1000080.png,wektor
+line_1000081.png,macierz efektu śr. prod.
+line_1000082.png,wolumen produkcji
+line_1000083.png,wektor liczby
+line_1000084.png,wektor cen jedn. zakupu produktów
+line_1000085.png,zawartość składników w produktach
+line_1000086.png,wektor mieszaniny
+line_1000087.png,wektor zapotrzebowania
+line_1000088.png,wektor odpadów jednost.
+line_1000089.png,macierz efektu wykorzystania technologii
+line_1000090.png,technologia
+line_1000091.png,wygląda
+line_1000092.png,"inaczej aniżeli klasycznie PPL,"
+line_1000093.png,ale też ma struktury
+line_1000094.png,liniowe
+line_1000095.png,OZZT zostanie
+line_1000096.png,szczegółowo przedstawione
+line_1000097.png,później
+line_1100001.png,Kurs: B.O. / ZIP st. stacj./niestacj.
+line_1100002.png,Forma: Wykład
+line_1100003.png,Tryb: On-line
+line_1100004.png,Wykład 2
+line_1100005.png,Temat: Sformułowanie problemu
+line_1100006.png,PROGRAMOWANIA c.d.
+line_1100007.png,Zajmiemy się teraz modelem
+line_1100008.png,teoretycznym zagadnień przedstawionych
+line_1100009.png,"na WI oraz innych, gdzie"
+line_1100010.png,występuje potrzeba optymalizacji.
+line_1100011.png,"Najpierw przedstawimy to wersji opisowej, zanim"
+line_1100012.png,"formalny opis ilościowy, czyli matematyczny."
+line_1100013.png,podamy
+line_1100014.png,Opis Problemu Programowania (PP)
+line_1100015.png,"Sytuację przedstawia się tak, jak na rys. 1."
+line_1100016.png,Rozwiązanie PP jako
+line_1100017.png,za pomocą
+line_1100018.png,zbioru ROZWIĄZAŃ DOPUSZCZALNYCH
+line_1100019.png,otoczenia dany jest UKŁAD (proces
+line_1100020.png,W określonym otoczeniu dany jest
+line_1100021.png,USER
+line_1100022.png,gospodarczy). Procesem tym zarządza
+line_1100023.png,swojej działalności
+line_1100024.png,osiągnąć efekt
+line_1100025.png,Chce
+line_1100026.png,- musi relatywi-
+line_1100027.png,Jest tylko jeden sposób -
+line_1100028.png,"zować, czyli"
+line_1100029.png,sprecyzować CEL swojej
+line_1100030.png,działalności („Objective”)
+line_1100031.png,uwzględniając obecność otoczenia
+line_1100032.png,które generuje dwa rodzaje ograniczeń
+line_1100033.png,(ang. Constraints)
+line_1100034.png,warunki brzegowe
+line_1100035.png,- warunki ograniczające.
+line_1100036.png,W efekcie powstaje tzw. ZBIÓR ROZWIĄZAŃ
+line_1100037.png,(ang. FEASIBLE REGION).
+line_1100038.png,DOPUSZCZALNYCH
+line_1100039.png,Każda decyzja podjęta na podstawie każdego
+line_1100040.png,ZRD jest możliwa do wdrożenia
+line_1100041.png,elementu
+line_1100042.png,-2-
+line_1100043.png,na swój cel
+line_1100044.png,User
+line_1100045.png,postaci FC
+line_1100046.png,wybrać
+line_1100047.png,"Jest to kryterium, które pozwala mu wybrać"
+line_1100048.png,z ZRD tą właściwą. W tym sensie
+line_1100049.png,(efekt relatywizacji) jest ona
+line_1100050.png,optymalna.
+line_1100051.png,Uwaga:
+line_1100052.png,Zmiana
+line_1100053.png,"Zmiana FC może spowodować, że"
+line_1100054.png,zmieni się decyzja optymalna
+line_1100055.png,Zmiana
+line_1100056.png,"WB & WO może spowodować, że"
+line_1100057.png,ZRD ulegnie zmianie i dotychczasowe
+line_1100058.png,rozwiązanie w ogóle może nie
+line_1100059.png,być
+line_1100060.png,możliwe do
+line_1100061.png,realizacji!
+line_1100062.png,Przedstawmy sytuację z rys.
+line_1100063.png,1 jeszcze raz
+line_1100064.png,WB - mnogość warunków brzegowych
+line_1100065.png,Niech:
+line_1100066.png,ograniczających
+line_1100067.png,ZRD - mnogość rozwiązań
+line_1100068.png,dopuszczalnych
+line_1100069.png,f. celu
+line_1100070.png,FC
+line_1100071.png,Wtedy:
+line_1100072.png,d - pojedyncza decyzja
+line_1100073.png,d spełnia
+line_1100074.png,WB & WO
+line_1100075.png,(ii) zadaniem FC
+line_1100076.png,(np. wartość zysku
+line_1100077.png,nakładu/kosztów)
+line_1100078.png,a) wartościowanie decyzji
+line_1100079.png,[np. w PLN]
+line_1100080.png,b) wybór własności
+line_1100081.png,podstawie
+line_1100082.png,"przyjętego kryterium, np."
+line_1100083.png,kryterium
+line_1100084.png,-4-
+line_1100085.png,"Wtedy wybór polega na tym,"
+line_1100086.png,z ZRD wybrać takie
+line_1100087.png,że
+line_1100088.png,"tym, aby"
+line_1100089.png,"zagadnień,"
+line_1100090.png,nazywamy PROBLEMEM PROGRAMOWANIA
+line_1100091.png,Model matematyczny PP
+line_1100092.png,Niezbędne fakty z matematyki potrzebne
+line_1100093.png,do
+line_1100094.png,opisu PP
+line_1100095.png,przestrzeń euklidesowa
+line_1100096.png,oznacza zbiór l.rzeczyw
+line_1100097.png,"Wiemy, że symbolem R"
+line_1100098.png,prosta
+line_1100099.png,Interpretacja geometryczna R
+line_1100100.png,"Jest to przykład tw. p. euklidesowy wymiaru n=1,"
+line_1100101.png,co oznaczamy R
+line_1100102.png,Przypadek n = 2
+line_1100103.png,zbiorem
+line_1100104.png,są pary l.rzeczywistych
+line_1100105.png,Wtedy elementami
+line_1100106.png,Ilustracja geometryczna
+line_1100107.png,Płaszczyzna
+line_1100108.png,jako punkt
+line_1100109.png,Weźmy jeszcze przypadek n = 3
+line_1100110.png,"(długość, szerokość, wysokość)"
+line_1100111.png,Mamy odpowiednio
+line_1100112.png,-6-
+line_1100113.png,Model
+line_1100114.png,"ciąg l,naturalnych długości"
+line_1100115.png,Bedą też
+line_1100116.png,\
+line_1100117.png,Funkcja rzeczywista wielu zmiennych.
+line_1100118.png,Jest to przyporządkowane f określone na
+line_1100119.png,podzbiorze
+line_1100120.png,które
+line_1100121.png,przypisuje dokładnie
+line_1100122.png,każdemu
+line_1100123.png,rzeczywiste
+line_1100124.png,jedną liczbe
+line_1100125.png,wartości
+line_1100126.png,nazywane wartością
+line_1100127.png,argument
+line_1100128.png,f
+line_1100129.png,A
+line_1100130.png,Zjawisko liniowości
+line_1100131.png,W PP ważny jest efekt występowania
+line_1100132.png,funkcji liniowych
+line_1100133.png,"Powiemy, że funkcja f"
+line_1100134.png,"liniowa, jeśli"
+line_1100135.png,gdzie liczby
+line_1100136.png,są dane
+line_1100137.png,Nazywamy je współczynnikiem f
+line_1100138.png,Przykłady
+line_1100139.png,Zapis macierzy f.liniowych
+line_1100140.png,Macierz
+line_1100141.png,typu
+line_1100142.png,Przez
+line_1100143.png,nazywamy obiekt
+line_1100144.png,wiersz
+line_1100145.png,kolumna
+line_1100146.png,Piszemy
+line_1100147.png,miniaturka
+line_1100148.png,"to mówi, że A jest kwadratowe"
+line_1100149.png,Jeśli
+line_1100150.png,Będziemy pisali
+line_1100151.png,wszystkich macierzy
+line_1100152.png,typu
+line_1100153.png,mówimy żeA jest typem
+line_1100154.png,Jeśli
+line_1100155.png,wiersz
+line_1100156.png,A typ kolumn
+line_1100157.png,Jeśli n=1
+line_1100158.png,to
+line_1100159.png,Operacje na macierzach
+line_1100160.png,transpozycji (zamiana wierszy na kolumny)
+line_1100161.png,Niech
+line_1100162.png,Wtedy
+line_1100163.png,wiersz
+line_1100164.png,macierzy B jest i-ty kolumny A
+line_1100165.png,"Jasne, że"
+line_1100166.png,Dodawanie macierzy
+line_1100167.png,"musi być tego samego typu, czyli"
+line_1100168.png,Wtedy
+line_1100169.png,Nie wykonalne
+line_1100170.png,Mnożenie macierzy
+line_1100171.png,Efekt dopasowania
+line_1100172.png,Jeśli
+line_1100173.png,to aby obliczyć
+line_1100174.png,tej kolumny
+line_1100175.png,Oba ciągi mają te same długości
+line_1500001.png,Kurs BO
+line_1500002.png,Forma zajęć: Wykład
+line_1500003.png,Tryb: on-line
+line_1500004.png,W7
+line_1500005.png,Temat: Interpretacja zm. dualnych na wybranym przykładzie.
+line_1500006.png,Uwagi n/t metod rozwiązania PPPL
+line_1500007.png,"Na przykładzie I zagadnienia, tj. problem wyboru"
+line_1500008.png,"asortymentu wolumenu produkcji, wyjaśnimy znaczenie"
+line_1500009.png,zmiennych decyzyjnych w DPPL.
+line_1500010.png,PPPL jest następujący(perwotny PPL)
+line_1500011.png,"Przypomnijmy, że"
+line_1500012.png,typ
+line_1500013.png,"n - liczba wyrobów, czyli:"
+line_1500014.png,m - liczba środków produkcji:
+line_1500015.png,wektor decyzyjny
+line_1500016.png,gdzie
+line_1500017.png,liczba jednostek wyrobu
+line_1500018.png,oraz
+line_1500019.png,cena jednostkowa wyrobu
+line_1500020.png,gdzie
+line_1500021.png,zużycie środka
+line_1500022.png,na jednostkę wyrobu
+line_1500023.png,W postaci macierzy mamy:
+line_1500024.png,"programowanie dualne, czyli:"
+line_1500025.png,Bierzemy
+line_1500026.png,typ
+line_1500027.png,decyzja
+line_1500028.png,Znając interpretację ekonomiczną:
+line_1500029.png,ustalamy
+line_1500030.png,znaczenie zmiennej decyzyjnej dla omawianego przypadku.
+line_1500031.png,Kluczem jest zrozumienie nierówności
+line_1500032.png,Zapiszmy ją w postaci analitycznej:
+line_1500033.png,Zatem
+line_1500034.png,warunek ograniczający ma postać
+line_1500035.png,Weźmy
+line_1500036.png,składnik lewej strony (*):
+line_1500037.png,Ponieważ w (*)
+line_1500038.png,mamy
+line_1500039.png,"stron, oraz"
+line_1500040.png,liczba jedn. waluty na jednostkę wyrobu
+line_1500041.png,musi mieć takie MIANO
+line_1500042.png,to składnik
+line_1500043.png,Ale
+line_1500044.png,więc
+line_1500045.png,musi być
+line_1500046.png,czyli koszt jednostkowy zużycia
+line_1500047.png,środków produkcji
+line_1500048.png,omawianym procesie
+line_1500049.png,Wtedy
+line_1500050.png,koszt zużycia
+line_1500051.png,skąd
+line_1500052.png,lewa strona
+line_1500053.png,oznacza
+line_1500054.png,koszt zużycia
+line_1500055.png,na jednostkę
+line_1500056.png,łączny koszt
+line_1500057.png,zużycia wszystkich środków
+line_1500058.png,jednostkę
+line_1500059.png,Wtedy
+line_1500060.png,łączny
+line_1500061.png,koszt zużycia
+line_1500062.png,zapasu wszystkich środków
+line_1500063.png,W programowaniu dualnym podejmuję decyzję
+line_1500064.png,a więc optymalizuje się koszty jednostkowe użycia
+line_1500065.png,"środków produkcji, które w programowaniu"
+line_1500066.png,pierwotnym miały
+line_1500067.png,wpływ na max
+line_1500068.png,przychód
+line_1500069.png,ZAD. Proszę powtórzyć powyższy procedury ustalania
+line_1500070.png,znaczenia dualnych zm. decyzyjnych dla
+line_1500071.png,lub
+line_1500072.png,sytuacji
+line_1500073.png,Uwagi n/t rozwiązywania PPL
+line_1500074.png,mxn dane w postaci
+line_1500075.png,Wtedy PPL typu mxn
+line_1500076.png,macierzowej
+line_1500077.png,"Def1. Powiemy, że PPL jest niesprzeczne, jeśli"
+line_1500078.png,Tw. (o rozwiązaniu PPL) (wersja dla Min identyczna!)
+line_1500079.png,Każde niesprzeczne i ograniczone PPL ma co najmniej
+line_1500080.png,istnieje
+line_1500081.png,"jedno rozwiązanie, czyli"
+line_1500082.png,dla wszystkich
+line_1500083.png,"Co więcej, istnieje algorytm, który pozwala"
+line_1500084.png,skonstruować. Jest to tzw. algorytm SYMPLEKS
+line_1500085.png,Dalej zajmiemy się tylko sytuacjami szczególnymi
+line_1500086.png,Przypadek
+line_1500087.png,"oznacza, że"
+line_1500088.png,"jest jak w tw., to D jest"
+line_1500089.png,"Jeśli PPL jest jak w tw., to D jest"
+line_1500090.png,wielokątem wypukłym złożonym ze skończonej ilości
+line_1500091.png,wierzchołków
+line_1500092.png,Uwaga.
+line_1500093.png,tw. SYMPLEKS
+line_1500094.png,Na rys. 1 mamy przykład wielokąta (wierzchołki
+line_1500095.png,który nie jest wypukły; odcinek
+line_1500096.png,łączy punkty
+line_1500097.png,"punkty P,Q z wnętrza wielokąta nie"
+line_1500098.png,zamienia
+line_1500099.png,się w tym wnętrzu
+line_1500100.png,Wtedy rozwiązanie optymalne
+line_1500101.png,wypada
+line_1500102.png,w jednym z wierzchołków.
+line_1500103.png,Aby je zidentyfikować
+line_1500104.png,należy
+line_1500105.png,Podstawić współrzędne
+line_1500106.png,do funkcji celu
+line_1500107.png,Z otrzymanego zbioru liczbowego
+line_1500108.png,wybrać liczbę największą.
+line_1500109.png,Jeśli np. jest
+line_1500110.png,to liczba
+line_1500111.png,Uwaga. Tak samo jest dla przypadku Min.
+line_1500112.png,P1 Rozważmy przykład
+line_1500113.png,ilustrujący zagadnienie I
+line_1500114.png,Mamy tutaj
+line_1500115.png,"Max, gdy"
+line_1500116.png,Rozwiążmy
+line_1500117.png,graficznie WB & WO.
+line_1500118.png,Bierzemy proste
+line_1500119.png,czyli warunek
+line_1500120.png,Pomińmy na
+line_1500121.png,rozwiązanie dopuszczalne jest wielokątem wypukłym
+line_1500122.png,Wtedy
+line_1500123.png,wierzchołkach:
+line_1500124.png,musimy wziąć część wspólną
+line_1500125.png,W naszym przypadku
+line_1500126.png,tego wielokąta z
+line_1500127.png,prostą
+line_1500128.png,"Zauważmy, że"
+line_1500129.png,oraz
+line_1500130.png,oraz
+line_1500131.png,przecina
+line_1500132.png,w punkcie
+line_1500133.png,czyli w B.
+line_1500134.png,Dlatego w tej szczególnej sytuacji PRD
+line_1500135.png,odcinkiem OB (bo też
+line_1500136.png,wielokąt wypukły).
+line_1500137.png,Mamy tylko 2 wierzchołki
+line_1500138.png,"Jako, że B jest rozwiązaniem, oraz"
+line_1500139.png,Przypadek
+line_1500140.png,MZD
+line_1500141.png,Rozwiązanie polega na zastosowaniu
+line_1500142.png,"von Neumanna, co wyjaśnimy na kolejnym przykładzie."
+line_1500143.png,Przykład.
+line_1500144.png,Tartak otrzymał zamówienie na wykonanie co najmniej
+line_1500145.png,300 kompletów belek. Każdy komplet składa się z:
+line_1500146.png,"7 belek dł. 0,7m oraz 4 belek dł. 2,5m."
+line_1500147.png,W jaki sposób powinno być zrealizowane zamówienie
+line_1500148.png,by odpad powstały w procesie cięcia dłużyc
+line_1500149.png,"o dł. 5,2m był minimalny. Ile wynosi"
+line_1500150.png,wielkość odpadu przy optymalnym cięciu?
+line_1500151.png,Identyfikacja: problem wyboru technologii - zagad.
+line_1500152.png,wycinania
+line_1500153.png,Konstrukcja modelu
+line_1500154.png,definiuję wyrobów
+line_1500155.png,"W1 - belka dł. 0,7m"
+line_1500156.png,"W2 - belka dł. 2,5m"
+line_1500157.png,definicja technologii:
+line_1500158.png,odpad
+line_1500159.png,Zatem n=3
+line_1500160.png,mamy po agregacji
+line_1500161.png,PPL jest tym
+line_1500162.png,odpad
+line_1500163.png,odpad z
+line_1500164.png,Dlatego
+line_1500165.png,odpad łączny
+line_1500166.png,Stosujemy MZD:
+line_1500167.png,Dualne
+line_1500168.png,dlatego p.analityczna dualnego
+line_1500169.png,Rozwiążmy dualne
+line_1500170.png,Zatem D: prostokąt OABC.
+line_1500171.png,Zatem dualne ma rozwiązanie
+line_1500172.png,"jest wierzchołkiem D, zatem"
+line_1500173.png,i sprawdźmy czy
+line_1500174.png,Bierzemy kolejno
+line_1500175.png,leży na kolejnej prostej
+line_1500176.png,"B leży, czy"
+line_1500177.png,określając
+line_1500178.png,jeśli dla analizowanej składowej
+line_1500179.png,"nie leży, to ma ona wartość 0"
+line_1500180.png,W przeciwnym razie zostawiamy ją(trzeba wyliczyć).
+line_1500181.png,Mamy kolejno:
+line_1500182.png,(I warunek z l1)
+line_1500183.png,liczymy
+line_1500184.png,(II warunek z l2)
+line_1500185.png,(III warunek z
+line_1500186.png,liczymy
+line_1500187.png,Dlatego mamy:
+line_1600001.png,Kurs: Badania operacyjne
+line_1600002.png,Forma z.: Wykład
+line_1600003.png,Tryb: on-line. W8
+line_1600004.png,Temat. Uwagi n/t rozwiązania ZZT oraz zjawisko „zamknięcia”
+line_1600005.png,OZT
+line_1600006.png,Przypomnijmy ZZT:
+line_1600007.png,Dane: m - dostawców:
+line_1600008.png,Dm (strona podażowa)
+line_1600009.png,n - odbiorców:
+line_1600010.png,(strona popytowa)
+line_1600011.png,"ZZT oznacza, że"
+line_1600012.png,zmienna decyzyjna
+line_1600013.png,gdzie
+line_1600014.png,ilość dostępnego towaru
+line_1600015.png,macierz
+line_1600016.png,"kosztu, gdzie"
+line_1600017.png,koszt przewiezienia jednostki towaru
+line_1600018.png,na trasie
+line_1600019.png,Wtedy
+line_1600020.png,koszt łączny przewozu
+line_1600021.png,(brak strat.)
+line_1600022.png,od strony
+line_1600023.png,dostawców
+line_1600024.png,odbiorców
+line_1600025.png,Fakt (o rozwiązaniu
+line_1600026.png,ZZT ma co najmniej jedno rozwiązanie
+line_1600027.png,Każde
+line_1600028.png,Można je skonstruować przy użyciu tw.
+line_1600029.png,Algorytmu TRANSPORTOWEGO (A.T.)
+line_1600030.png,Jego idea polega na
+line_1600031.png,modyfikacji wybranej
+line_1600032.png,"z D decyzji. Dokładniej, jeśli"
+line_1600033.png,daną decyzją
+line_1600034.png,generuje skończony ciąg
+line_1600035.png,kolejnych decyzji
+line_1600036.png,AT
+line_1600037.png,że
+line_1600038.png,czyli
+line_1600039.png,jest decyzją optymalną.
+line_1600040.png,nie będzie przedstawiony ze względu
+line_1600041.png,Na tym kończymy AT
+line_1600042.png,na jego złożoność. Pokażemy jedynie dwa
+line_1600043.png,sposoby wyboru
+line_1600044.png,"decyzji inicjującej AT, czyli"
+line_1600045.png,W tym celu weźmy przykład
+line_1600046.png,Popyt
+line_1600047.png,Uwaga. Fragment zaznaczony w kolorze czerwonym
+line_1600048.png,macierz kosztów jednost.
+line_1600049.png,W.O. jak we wstępie
+line_1600050.png,Metoda I. „lewego górnego wyrazu macierzy przewozów”
+line_1600051.png,jak niżej
+line_1600052.png,Krok 1. Rysujemy siatkę macierzy przewozów
+line_1600053.png,Składa się ona z komórek
+line_1600054.png,o adresach
+line_1600055.png,Zaczynamy od komórki
+line_1600056.png,Krok 2.
+line_1600057.png,"mniejszą, wpisujemy"
+line_1600058.png,z liczb
+line_1600059.png,do komórki oraz idziemy
+line_1600060.png,albo
+line_1600061.png,większy
+line_1600062.png,większa
+line_1600063.png,u nas
+line_1600064.png,Krok 3. Aktualizujemy podaż
+line_1600065.png,popyt
+line_1600066.png,powtórzmy krok 2
+line_1600067.png,efekt
+line_1600068.png,Krok 4. Pozostałe komórki zostawimy puste
+line_1600069.png,"Zauważmy, że postać macierzy"
+line_1600070.png,można użyć dla celu A.T.
+line_1600071.png,zatem
+line_1600072.png,Obliczmy
+line_1600073.png,Metoda 2. „Najmniejszego elementu macierzy
+line_1600074.png,kosztów”
+line_1600075.png,Krok 1. Przepisujemy macierz
+line_1600076.png,"poddamy ją EWOLUCJI, która polega"

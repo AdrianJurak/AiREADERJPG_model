@@ -1,0 +1,413 @@
+filename,words
+line_1100176.png,Wtedy
+line_1100177.png,Weźmy teraz funkcję liniowa
+line_1100178.png,Zapiszemy je w konwencji macierzowej
+line_1100179.png,W tym celu definiujemy
+line_1200001.png,Kurs: BO / ZIP st. stacj. & niest.
+line_1200002.png,Forma zajęć: wykład
+line_1200003.png,tryb: on-line
+line_1200004.png,Wykład 3
+line_1200005.png,Temat: Polski matematyczny Problem Programowania (PP)
+line_1200006.png,(PPL) - problem programowania liniowego.
+line_1200007.png,Jak wiadomo zjawisko PP wygląda następująco
+line_1200008.png,NB
+line_1200009.png,układ
+line_1200010.png,rozwiązanie
+line_1200011.png,"Podany jest opis ilościowy PP, czyli model matematyczny"
+line_1200012.png,W tym celu ustalmy dwie liczby naturalne
+line_1200013.png,FAKT (o postaci PP)
+line_1200014.png,Każde PP ma
+line_1200015.png,swój model
+line_1200016.png,którego podstawowym
+line_1200017.png,parametrem jest jego typ:
+line_1200018.png,gdzie
+line_1200019.png,n - liczba argumentów funkcji celu
+line_1200020.png,"m - liczba warunków ograniczających, gdzie"
+line_1200021.png,zmienne decyzyjne
+line_1200022.png,kryterium wyboru
+line_1200023.png,zbiór rozw. dopuszczalnych
+line_1200024.png,przedziały liczbowe
+line_1200025.png,dane liczby rzeczywiste
+line_1200026.png,jedna
+line_1200027.png,z relacji
+line_1200028.png,Przykład 1
+line_1200029.png,czyli typ
+line_1200030.png,Wtedy oznaczamy
+line_1200031.png,należy to zilustrować
+line_1200032.png,w tym przypadku
+line_1200033.png,geometryczny
+line_1200034.png,ZAD1
+line_1200035.png,"Proszę usasadnić, że ZRD jest obszarem zakreskowanym:"
+line_1200036.png,ograniczony wielokątem
+line_1200037.png,Każdy punkt
+line_1200038.png,jest decyzją
+line_1200039.png,którą można
+line_1200040.png,"zrealizować, bowiem"
+line_1200041.png,należy do
+line_1200042.png,obszaru wygenerowanego przez
+line_1200043.png,Rozwiązać PP oznacza
+line_1200044.png,wybrać z
+line_1200045.png,taki punkt
+line_1200046.png,że takie P0 istnieje
+line_1200047.png,Z rys. 1 widać
+line_1200048.png,ZAD2
+line_1200049.png,Wybrac rozwiązanie PP
+line_1200050.png,P.2
+line_1200051.png,Dalej będą rozważane tylko dwie następujące
+line_1200052.png,sytuacje
+line_1200053.png,PP typu max
+line_1200054.png,"MAX oznacza, że"
+line_1200055.png,najlepszą z możliwych wartości F.C.
+line_1200056.png,też pisali
+line_1200057.png,PP typu min
+line_1200058.png,MIN oznacza
+line_1200059.png,najmn. z możliwych
+line_1200060.png,wartości
+line_1200061.png,Piszemy też
+line_1200062.png,Uwaga
+line_1200063.png,Oba poprzednie modele podane są w tzw. postaci
+line_1200064.png,standardowej. W problemach takich być
+line_1200065.png,Wyjaśnia to kolejny przykład.
+line_1200066.png,P.2
+line_1200067.png,PP sprowadzić do postaci standardowej
+line_1200068.png,Dane
+line_1200069.png,nie jest sformułowane
+line_1200070.png,Dane PP
+line_1200071.png,(DLACZEGO?)
+line_1200072.png,To i każde inne można
+line_1200073.png,zawsze sprowadzić do P.S.
+line_1200074.png,Pokażmy jak to się
+line_1200075.png,robi
+line_1200076.png,MAX / MIN
+line_1200077.png,ustalmy
+line_1200078.png,typ
+line_1200079.png,U nas MAX
+line_1200080.png,sprowadzamy do standardu
+line_1200081.png,nowe zmienne
+line_1200082.png,wprowadź nowe
+line_1200083.png,przeprowadź procedury ZAMIANY
+line_1200084.png,ZMIENNYCH w oryginalnym
+line_1200085.png,Max
+line_1200086.png,gdzie
+line_1200087.png,Najpierw ustalamy właściwe nierówności
+line_1200088.png,dobrze
+line_1200089.png,(źle!)
+line_1200090.png,zamienimy zmienne
+line_1200091.png,Uwaga
+line_1200092.png,będą wartości tej
+line_1200093.png,Dalej przez PP będą
+line_1200094.png,postać standardową!
+line_1200095.png,Przypadek PP liniowego
+line_1200096.png,(PPL)
+line_1200097.png,Niech dane będą (PP) typu
+line_1200098.png,np. z kryterium MAX(dla
+line_1200099.png,sytuacja
+line_1200100.png,będzie analogicznie
+line_1200101.png,"jest tym PPL, gdy"
+line_1200102.png,"Powiemy, że PP"
+line_1200103.png,wszystkie funkcje:
+line_1200104.png,są liniowe
+line_1200105.png,ZAD. NAPISAĆ dla Min
+line_1200106.png,FAKT (O postaci
+line_1200107.png,(dla MAX)
+line_1200108.png,Każde PPL
+line_1200109.png,typu
+line_1200110.png,ZAD3. Napisać
+line_1200111.png,dla
+line_1200112.png,wartości współczynników
+line_1200113.png,ZAD4 Napisać
+line_1300001.png,Kurs: Badania Operacyjne / ZiP st. stacj./niestacj.
+line_1300002.png,Forma zajęć: Wykład
+line_1300003.png,Tryb: on-line
+line_1300004.png,W4
+line_1300005.png,Temat: Proste maksimum PPL i jego konwersja.
+line_1300006.png,Metodologia modelowania zjawisk prowadzących do PPL
+line_1300007.png,Weźmy PPL typu
+line_1300008.png,"i standardowej, czyli:"
+line_1300009.png,dane w postaci analitycznej
+line_1300010.png,oraz
+line_1300011.png,Uwaga. Tutaj przedstawimy przypadek MAX. Przypadek Min
+line_1300012.png,student
+line_1300013.png,Zapisuje samodzielnie
+line_1300014.png,Pokażmy jak powyższa analityczna postać „zwija”
+line_1300015.png,do postaci macierzowej
+line_1300016.png,Definiujemy macierze:
+line_1300017.png,zmienne decyzyjną
+line_1300018.png,macierz współczynników
+line_1300019.png,funkcji celu F
+line_1300020.png,macierz wyrazów wolnych
+line_1300021.png,warunków ograniczających:
+line_1300022.png,macierz współczynników
+line_1300023.png,warunków ograniczających
+line_1300024.png,Wtedy efekt
+line_1300025.png,„zwinięcia” wygląda
+line_1300026.png,następująco:
+line_1300027.png,Powyższy zapis nazywamy
+line_1300028.png,postacią macierzowym PPL
+line_1300029.png,Fakt 1 (o konwersji)
+line_1300030.png,W każdej chwili możemy
+line_1300031.png,PPL
+line_1300032.png,zwinąć: p. analit
+line_1300033.png,p. macierzowa
+line_1300034.png,rozwinąć: p. macierzową
+line_1300035.png,p. analityczna
+line_1300036.png,wyjaśnij to na przykładzie.
+line_1300037.png,Przykład 1
+line_1300038.png,Dane jest PPL
+line_1300039.png,Zwinąć PPL do postaci macierzowej.
+line_1300040.png,"PPL dane jest w  postaci,"
+line_1300041.png,"Jeśli nie, to sprowadźmy do"
+line_1300042.png,Równe
+line_1300043.png,takim
+line_1300044.png,"u nas TAK, zatem"
+line_1300045.png,Krok 2: Ustalamy typ: # zm. decyzyj:
+line_1300046.png,Zatem
+line_1300047.png,Krok 3: Ustalamy kolejność zm. decyzyjnych.
+line_1300048.png,Na ogół zachowuje
+line_1300049.png,"daną, u nas"
+line_1300050.png,"Krok 4: Wszystko opieramy, o ustalenia Kroku 3!"
+line_1300051.png,zm. decyzyjne
+line_1300052.png,wsp. f. celu F
+line_1300053.png,w. wolny w. ogr.
+line_1300054.png,bo nie zmieniły
+line_1300055.png,kolejności warunków!
+line_1300056.png,Krok 5: Podajmy zapis macierz
+line_1300057.png,Przykład 2. Dane jest PPL w p. macierzowej
+line_1300058.png,Podać p.analityczną
+line_1300059.png,Z zakresu
+line_1300060.png,Max
+line_1300061.png,Zajmij się teraz procesem modelowania zjawisk prowadzących do PPL
+line_1300062.png,wybór asortymentu wolumenu produkcji.
+line_1300063.png,identyfikacja typu: m - # środków produkcji
+line_1300064.png,n - # wyrobów (zm. decyzyjne!)
+line_1300065.png,- limitowane środki produkcji
+line_1300066.png,zmiennych decyzyjnych:
+line_1300067.png,2) definicja
+line_1300068.png,ilość jedn.
+line_1300069.png,wyrobu
+line_1300070.png,wzoru funkcji celu F:
+line_1300071.png,3) definicja
+line_1300072.png,cena jednostkowa wyrobu
+line_1300073.png,niech
+line_1300074.png,przychód ze sprzedaży
+line_1300075.png,jedn.
+line_1300076.png,Wtedy:
+line_1300077.png,łączny przychód ze sprzedaży
+line_1300078.png,dlatego
+line_1300079.png,4) definicja dziedziny f. celu
+line_1300080.png,ograniczenie dla każdego środka produkcji:
+line_1300081.png,ogr. warunku
+line_1300082.png,zużycie
+line_1300083.png,na jednostkę
+line_1300084.png,zużycie
+line_1300085.png,jedn
+line_1300086.png,zużycie
+line_1300087.png,produkcji
+line_1300088.png,wynosi
+line_1300089.png,zatem
+line_1300090.png,Ale limit
+line_1300091.png,Bierzemy dane z W1
+line_1300092.png,Oceń
+line_1300093.png,Aby zrobić to sprawniej
+line_1300094.png,to spraniej dobrze jest
+line_1300095.png,dokonać
+line_1300096.png,AGREGACJI PARAMETRÓW
+line_1300097.png,"W tym przypadku wygodna, bo następują"
+line_1300098.png,Problem mieszania (diet)
+line_1300099.png,1) ident. typu: m - # składników produktów
+line_1300100.png,"n - # produktów (zm. decyzyjne),"
+line_1300101.png,produkty dające mieszankę
+line_1300102.png,składniki decydujące
+line_1300103.png,o jakości mieszanki
+line_1300104.png,2) def. zm. decyzyj
+line_1300105.png,produktu
+line_1300106.png,def. wzoru
+line_1300107.png,cena jedn. zakupu
+line_1300108.png,wydatek na zakup
+line_1300109.png,łączny wydatek
+line_1300110.png,4) def. dziedziny
+line_1300111.png,oraz: warunki ogr. na
+line_1300112.png,zawartości składników
+line_1300113.png,w mieszance (DIETA)
+line_1300114.png,zawartość
+line_1300115.png,w jedn.
+line_1300116.png,zawartość
+line_1300117.png,w
+line_1300118.png,jedn
+line_1300119.png,w mieszance
+line_1300120.png,stąd
+line_1300121.png,limit
+line_1300122.png,Przykład(z W1)
+line_1300123.png,Produkty
+line_1300124.png,składniki
+line_1300125.png,decyzyjne
+line_1300126.png,Agregacja parametrów
+line_1300127.png,Dlatego
+line_1400001.png,Kurs: B.O.
+line_1400002.png,Forma zajęć: Wykład
+line_1400003.png,Tryb: on-line
+line_1400004.png,W6
+line_1400005.png,Temat: Programowanie dualne: Mocna
+line_1400006.png,Słaba zasada dualności von Neumanna.
+line_1400007.png,Interpretacja zmiennych dualnych
+line_1400008.png,standardowy
+line_1400009.png,Punktem wyjścia będzie PPL dane w postaci standardowej
+line_1400010.png,typu
+line_1400011.png,z funkcją celu zorientowaną na Max
+line_1400012.png,(przykład Min omówiony w uwagach) postaci
+line_1400013.png,Pierwotnym PPL (PPPL)
+line_1400014.png,Dalej będą nazywali je
+line_1400015.png,PPPL do postaci dualnego PPL
+line_1400016.png,Algorytm sprowadzenia
+line_1400017.png,(DPPL)
+line_1400018.png,Krok 1
+line_1400019.png,Postać analityczną „zwijamy” do postaci macierzowej
+line_1400020.png,Krok 2.
+line_1400021.png,Bierzemy PPL:
+line_1400022.png,typ:
+line_1400023.png,wektor decyzyjny:
+line_1400024.png,Funkcja celu
+line_1400025.png,nazywamy DUALNYM do (PPPL).
+line_1400026.png,Ten zdefiniuje PPL
+line_1400027.png,Krok 3. Postać macierzową
+line_1400028.png,Postać macierzową DPPL „rozwijamy”
+line_1400029.png,do postaci analitycznej
+line_1400030.png,Przykład 1.
+line_1400031.png,Dane PPL sprowadzić do postaci
+line_1400032.png,"dualnej, gdy"
+line_1400033.png,Rozw.
+line_1400034.png,jest typu
+line_1400035.png,Zwijamy do p. macierzowej
+line_1400036.png,gdzie
+line_1400037.png,Zapisujemy macierzową postać DPPL
+line_1400038.png,postaci DPPL:
+line_1400039.png,decyzja
+line_1400040.png,Rozwijamy powyższe
+line_1400041.png,Uwagi
+line_1400042.png,"Jeśli PPPL zorientuje się na Min, to"
+line_1400043.png,DPPL na
+line_1400044.png,MAX.
+line_1400045.png,Mamy sytuację
+line_1400046.png,bowiem
+line_1400047.png,dla
+line_1400048.png,k.macierzy
+line_1400049.png,czyli „dualne do dualnego daje pierwotne”.
+line_1400050.png,Mocna ZASADA DUALNOŚCI
+line_1400051.png,Słaba i
+line_1400052.png,von Neumanna.
+line_1400053.png,Słaba ZD von Neumanna
+line_1400054.png,program pierwotne
+line_1400055.png,programowe dualne
+line_1400056.png,Weźmy dualną decyzję
+line_1400057.png,Ponieważ
+line_1400058.png,dlatego
+line_1400059.png,Co to oznacza:
+line_1400060.png,dla dowolnych decyzji:
+line_1400061.png,zawsze
+line_1400062.png,wartości f.celu
+line_1400063.png,wart. p. celu
+line_1400064.png,dla DPPL
+line_1400065.png,dla PPPL
+line_1400066.png,gdy PPPL
+line_1400067.png,zorientowane na MAX
+line_1400068.png,DPPL zorientowane na MIN
+line_1400069.png,Przedstawmy to graficznie:
+line_1400070.png,oś rzeczywista
+line_1400071.png,Komentarz będzie na wykładzie!
+line_1400072.png,"Uwaga. Linia przerywana,"
+line_1400073.png,jest „graniczna”
+line_1400074.png,dla obu programowań.
+line_1400075.png,von Neumanna
+line_1400076.png,Dane jest programowe
+line_1400077.png,Uzasadnić
+line_1400078.png,Neumanna
+line_1400079.png,W tym celu PPL potraktujmy jako pierwotne
+line_1400080.png,wyznaczy dualne do niego
+line_1400081.png,Dostaniemy kolejno:
+line_1400082.png,"Zauważmy, że"
+line_1400083.png,czyli
+line_1400084.png,bo spełnia układ (*).
+line_1400085.png,"Dlatego, na mocy"
+line_1400086.png,SZD
+line_1400087.png,coś więcej
+line_1400088.png,von Neumann
+line_1400089.png,MZD - mocna zasada dualności
+line_1400090.png,Niech dane będą PPPL (Max) i DPPL (Min)
+line_1400091.png,Wtedy:
+line_1400092.png,jedno z nich ma
+line_1400093.png,Jeśli
+line_1400094.png,rozwiązanie
+line_1400095.png,czyli jeśli np.
+line_1400096.png,dla każdego
+line_1400097.png,to istnieje
+line_1400098.png,dla
+line_1400099.png,Dalej pokażemy w jaki sposób
+line_1400100.png,można wyznaczyć MZD
+line_1600077.png,dla których
+line_1600078.png,wskazać komórki
+line_1600079.png,„relatywne” koszty są najmniejsze
+line_1600080.png,W tym celu zaczynamy od WIERSZY
+line_1600081.png,wierszu wskazany limit
+line_1600082.png,Krok2. W każdym
+line_1600083.png,"najmniejszy, a następnie modyfikujemy"
+line_1600084.png,wszystkie komórki tego wiersza pomniejszając
+line_1600085.png,daną wartość o tę najmniejszą
+line_1600086.png,W efekcie w każdym wierszu jest co najmniej
+line_1600087.png,"jedno ""0"". Wskazuje ono komórkę"
+line_1600088.png,"gdzie ""relatywne"
+line_1600089.png,koszty są najmniejszym.
+line_1600090.png,Krok 3: Przechodzimy do
+line_1600091.png,"KOLUMN, aby"
+line_1600092.png,"Uzupełnić je o brakujące ""0"" w.g."
+line_1600093.png,zasady zastosowanej do wierszy
+line_1600094.png,trzeba to zrobić
+line_1600095.png,Jak widać z
+line_1600096.png,tylko dla kolumn:
+line_1600097.png,Krok4. Macierz
+line_1600098.png,pozwala skonstruować
+line_1600099.png,skonstruować
+line_1600100.png,macierz przewozów.
+line_1600101.png,W siatce tej macierz
+line_1600102.png,W tym celu
+line_1600103.png,rezerwujemy miejsca odpowiadające tym
+line_1600104.png,komórkom
+line_1600105.png,w których są
+line_1600106.png,a następnie wypełniamy je wartościami przewozów
+line_1600107.png,na zasadzie jak w Met.
+line_1600108.png,DWIE MOŻLIWOŚCI
+line_1600109.png,ZACHODZĄ
+line_1600110.png,Powstanie decyzja z D(tak jak
+line_1600111.png,w przykładzie
+line_1600112.png,Wtedy jest ona
+line_1600113.png,jest OPTYMALNA!
+line_1600114.png,(Porównac z
+line_1600115.png,Nie powstanie
+line_1600116.png,decyzją z D.
+line_1600117.png,Wtedy
+line_1600118.png,"trzeba użyć pozostałych komórek, aby"
+line_1600119.png,uzyskać
+line_1600120.png,Ale tak powstała nie będzie optymalna!
+line_1600121.png,OZT - procedura „zamknięcia” do ZZT
+line_1600122.png,Przykład. Zmodyfikuj poprzednią do
+line_1600123.png,Podaż > Popyt
+line_1600124.png,"Jak widać,"
+line_1600125.png,"Proces ""domykania"" OZT do ZZT polega"
+line_1600126.png,W praktyce będzie to miejsce składowania nadwyżki
+line_1600127.png,"Przyjmijmy, że koszty transportu do"
+line_1600128.png,są
+line_1600129.png,następujące
+line_1600130.png,"Po tych zmianach, mamy ""nową"" zmienną"
+line_1600131.png,decyzji
+line_1600132.png,część przewozowa
+line_1600133.png,część
+line_1600134.png,podlegająca
+line_1600135.png,składowym
+line_1600136.png,macierz przewozowo-składowa
+line_1600137.png,Wtedy
+line_1600138.png,koszt przewozu
+line_1600139.png,koszt pzewozu
+line_1600140.png,składowana
+line_1600141.png,nadwyżka
+line_1600142.png,ZAD
+line_1600143.png,Metody
+line_1600144.png,Zainicjować A.T.

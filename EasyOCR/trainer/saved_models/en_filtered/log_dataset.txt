@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------------
+dataset_root: /home/cipcius/PycharmProjects/AiREADERJPG/dataset
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    /home/cipcius/PycharmProjects/AiREADERJPG/dataset	 dataset: /
+sub-directory:	/images	 num samples: 1633
+sub-directory:	/en_val/images	 num samples: 412
+num total samples of /: 2045 x 1.0 (total_data_usage_ratio) = 2045
+num samples of / per batch: 7 x 1.0 (batch_ratio) = 7
+--------------------------------------------------------------------------------
+Total_batch_size: 7 = 7
+--------------------------------------------------------------------------------
+dataset_root:    /home/cipcius/PycharmProjects/AiREADERJPG/dataset/en_val	 dataset: /
+sub-directory:	/images	 num samples: 412
+--------------------------------------------------------------------------------
